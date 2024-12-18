@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: bdeaa246c202a7d42b8a3723460b97b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5390619591566804107
+    second: elf_idle_0
+  - first:
+      213: -5354632589088447618
+    second: elf_idle_1
+  - first:
+      213: -4461356658669794075
+    second: elf_idle_2
+  - first:
+      213: -2471953249502029990
+    second: elf_idle_3
+  - first:
+      213: 6179184788101449899
+    second: elf_idle_4
+  - first:
+      213: 223288352698060092
+    second: elf_idle_5
+  - first:
+      213: -6276982093109578489
+    second: elf_idle_6
+  - first:
+      213: -4867128059509435999
+    second: elf_idle_7
+  - first:
+      213: 1818332887593264183
+    second: elf_idle_8
+  - first:
+      213: -1150206158134933265
+    second: elf_idle_9
+  - first:
+      213: 6846785236796024696
+    second: elf_idle_10
+  - first:
+      213: -2435042939200993104
+    second: elf_idle_11
+  - first:
+      213: 6674013678137244729
+    second: elf_idle_12
+  - first:
+      213: 5545684783969059260
+    second: elf_idle_13
+  - first:
+      213: -7531209954110648369
+    second: elf_idle_14
+  - first:
+      213: 3792920201306799347
+    second: elf_idle_15
+  - first:
+      213: 8804529453878643044
+    second: elf_idle_16
+  - first:
+      213: -1559920330736630289
+    second: elf_idle_17
+  - first:
+      213: 944739413424220482
+    second: elf_idle_18
+  - first:
+      213: 2638561763191010607
+    second: elf_idle_19
+  - first:
+      213: -450447597356658339
+    second: elf_idle_20
+  - first:
+      213: -4020848599614194386
+    second: elf_idle_21
+  - first:
+      213: 6948616352252712604
+    second: elf_idle_22
+  - first:
+      213: -678282536319226583
+    second: elf_idle_23
+  - first:
+      213: 2677522609362597969
+    second: elf_idle_24
+  - first:
+      213: 6071136846601664142
+    second: elf_idle_25
+  - first:
+      213: 1375366608596035931
+    second: elf_idle_26
+  - first:
+      213: -7365924130909414531
+    second: elf_idle_27
+  - first:
+      213: -7854259360070741591
+    second: elf_idle_28
+  - first:
+      213: 7366607993770603408
+    second: elf_idle_29
+  - first:
+      213: -794606844090845925
+    second: elf_idle_30
+  - first:
+      213: 5534134747454338487
+    second: elf_idle_31
+  - first:
+      213: -5755715288931201670
+    second: elf_idle_32
+  - first:
+      213: 6491798118087316775
+    second: elf_idle_33
+  - first:
+      213: -2199293919263032801
+    second: elf_idle_34
+  - first:
+      213: 2326655720187649543
+    second: elf_idle_35
+  - first:
+      213: 6330711025390687087
+    second: elf_idle_36
+  - first:
+      213: 2226807978621229910
+    second: elf_idle_37
+  - first:
+      213: -8468512412990379995
+    second: elf_idle_38
+  - first:
+      213: -8177348745981502125
+    second: elf_idle_39
+  - first:
+      213: 4146818401636686487
+    second: elf_idle_40
+  - first:
+      213: 7037454888576100436
+    second: elf_idle_41
+  - first:
+      213: 2706563750082230775
+    second: elf_idle_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elf_idle_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1916
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b366dca0ca035b0800000000000000
+      internalID: -5390619591566804107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1916
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7327a0c70680b5b0800000000000000
+      internalID: -5354632589088447618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1916
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc9a791c31612c0800000000000000
+      internalID: -4461356658669794075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1916
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571f06dd9bd1bdd0800000000000000
+      internalID: -2471953249502029990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1916
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c84873dfd0c550800000000000000
+      internalID: 6179184788101449899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1915
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dcc01e297491300800000000000000
+      internalID: 223288352698060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1915
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70537be0b0ea3e8a0800000000000000
+      internalID: -6276982093109578489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1915
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19a9821dc747cb0800000000000000
+      internalID: -4867128059509435999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1659
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734286890240c3910800000000000000
+      internalID: 1818332887593264183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1659
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe886edd795a900f0800000000000000
+      internalID: -1150206158134933265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1659
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ad94a5eaa40f50800000000000000
+      internalID: 6846785236796024696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1659
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b80a14295df43ed0800000000000000
+      internalID: -2435042939200993104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1659
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf77f641cde9c50800000000000000
+      internalID: 6674013678137244729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1659
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c3c0cdea36fc40800000000000000
+      internalID: 5545684783969059260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1660
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4954e274cb7790800000000000000
+      internalID: -7531209954110648369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1659
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc7b4cc3d823a430800000000000000
+      internalID: 3792920201306799347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1403
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46986e0d3e8ff2a70800000000000000
+      internalID: 8804529453878643044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1403
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5888859bc0a5ae0800000000000000
+      internalID: -1559920330736630289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1403
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2492676bd736c1d00800000000000000
+      internalID: 944739413424220482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1403
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25bde4a1fd0e9420800000000000000
+      internalID: 2638561763191010607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1403
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d0a9fb40bfb9f0800000000000000
+      internalID: -450447597356658339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1403
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d7e5480831338c0800000000000000
+      internalID: -4020848599614194386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1403
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965e7cc1c17e6060800000000000000
+      internalID: 6948616352252712604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1403
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d675d70a14696f0800000000000000
+      internalID: -678282536319226583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1147
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158722980a8782520800000000000000
+      internalID: 2677522609362597969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1148
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863a74bbc2014450800000000000000
+      internalID: 6071136846601664142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1148
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ec4db4a8461310800000000000000
+      internalID: 1375366608596035931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1148
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9aae770bf6c990800000000000000
+      internalID: -7365924130909414531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1148
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15235c9b0100390800000000000000
+      internalID: -7854259360070741591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1148
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ff3cb0f27b3660800000000000000
+      internalID: 7366607993770603408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1149
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15fed9094df8f4f0800000000000000
+      internalID: -794606844090845925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 883
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b579215b323dcc40800000000000000
+      internalID: 5534134747454338487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 892
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d88f690779f10b0800000000000000
+      internalID: -5755715288931201670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_33
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 892
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d42e4eff771a50800000000000000
+      internalID: 6491798118087316775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_34
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 892
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a76a135d98a71e0800000000000000
+      internalID: -2199293919263032801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_35
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 891
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5a64ec01f94020800000000000000
+      internalID: 2326655720187649543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_36
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 892
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f639f04d2243bd750800000000000000
+      internalID: 6330711025390687087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 892
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b59b4fe0637ee10800000000000000
+      internalID: 2226807978621229910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_38
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 893
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e8b714dcc97a80800000000000000
+      internalID: -8468512412990379995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 636
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d594714a8348e80800000000000000
+      internalID: -8177348745981502125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 635
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9b919d557c8930800000000000000
+      internalID: 4146818401636686487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 636
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4582a646fef0aa160800000000000000
+      internalID: 7037454888576100436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elf_idle_42
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 636
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b9950465af8520800000000000000
+      internalID: 2706563750082230775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
