@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: c9a14dc9f55d88040979db71e41902d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8699938194265920772
+    second: Elf Shuffle 1000_0
+  - first:
+      213: 2081673195511277419
+    second: Elf Shuffle 1000_1
+  - first:
+      213: 5861441226632409785
+    second: Elf Shuffle 1000_2
+  - first:
+      213: 3524070685470573372
+    second: Elf Shuffle 1000_3
+  - first:
+      213: -7780032037260832229
+    second: Elf Shuffle 1000_4
+  - first:
+      213: -4216965791960410912
+    second: Elf Shuffle 1000_5
+  - first:
+      213: -2694036866903835670
+    second: Elf Shuffle 1000_6
+  - first:
+      213: -4703555078397698306
+    second: Elf Shuffle 1000_7
+  - first:
+      213: 5335341176307541100
+    second: Elf Shuffle 1000_8
+  - first:
+      213: 5034610768175274992
+    second: Elf Shuffle 1000_9
+  - first:
+      213: 6550649995108956008
+    second: Elf Shuffle 1000_10
+  - first:
+      213: -1476600290502244863
+    second: Elf Shuffle 1000_11
+  - first:
+      213: 6668135627766748470
+    second: Elf Shuffle 1000_12
+  - first:
+      213: -6825450221622293329
+    second: Elf Shuffle 1000_13
+  - first:
+      213: -8849323885311896609
+    second: Elf Shuffle 1000_14
+  - first:
+      213: 8967333009103496752
+    second: Elf Shuffle 1000_15
+  - first:
+      213: -141724798352646011
+    second: Elf Shuffle 1000_16
+  - first:
+      213: 4319143744811786910
+    second: Elf Shuffle 1000_17
+  - first:
+      213: 5859494937008861473
+    second: Elf Shuffle 1000_18
+  - first:
+      213: -3905224624008422584
+    second: Elf Shuffle 1000_19
+  - first:
+      213: -6599701951914933085
+    second: Elf Shuffle 1000_20
+  - first:
+      213: 4233812063875644380
+    second: Elf Shuffle 1000_21
+  - first:
+      213: 2765610731692320052
+    second: Elf Shuffle 1000_22
+  - first:
+      213: 5869789488981998131
+    second: Elf Shuffle 1000_23
+  - first:
+      213: 4061762085888163006
+    second: Elf Shuffle 1000_24
+  - first:
+      213: -3516415609139666367
+    second: Elf Shuffle 1000_25
+  - first:
+      213: -2080627504397555687
+    second: Elf Shuffle 1000_26
+  - first:
+      213: -6129579803431923290
+    second: Elf Shuffle 1000_27
+  - first:
+      213: 1894910174749615883
+    second: Elf Shuffle 1000_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 19169
+        width: 492
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d21581b36cb870800000000000000
+      internalID: 8699938194265920772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_1
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 19169
+        width: 502
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e6ecfdb693ec10800000000000000
+      internalID: 2081673195511277419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_2
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 19169
+        width: 522
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b231498db5085150800000000000000
+      internalID: 5861441226632409785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_3
+      rect:
+        serializedVersion: 2
+        x: 8689
+        y: 19169
+        width: 512
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3347dafd9308e030800000000000000
+      internalID: 3524070685470573372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_4
+      rect:
+        serializedVersion: 2
+        x: 11269
+        y: 19169
+        width: 482
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d8ed1516c70490800000000000000
+      internalID: -7780032037260832229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_5
+      rect:
+        serializedVersion: 2
+        x: 13839
+        y: 19159
+        width: 472
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4d93464f35a75c0800000000000000
+      internalID: -4216965791960410912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_6
+      rect:
+        serializedVersion: 2
+        x: 16399
+        y: 19159
+        width: 462
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf3604ebbdc9ad0800000000000000
+      internalID: -2694036866903835670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_7
+      rect:
+        serializedVersion: 2
+        x: 18959
+        y: 19159
+        width: 462
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efede92a39d99beb0800000000000000
+      internalID: -4703555078397698306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_8
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 16599
+        width: 472
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6463513880fa0a40800000000000000
+      internalID: 5335341176307541100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_9
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 16609
+        width: 482
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9173b1d78ed540800000000000000
+      internalID: 5034610768175274992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_10
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 16609
+        width: 492
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8673266b67598ea50800000000000000
+      internalID: 6550649995108956008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_11
+      rect:
+        serializedVersion: 2
+        x: 8729
+        y: 16619
+        width: 482
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1060061fbdf028be0800000000000000
+      internalID: -1476600290502244863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_12
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 16619
+        width: 482
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d92f260af98c50800000000000000
+      internalID: 6668135627766748470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_13
+      rect:
+        serializedVersion: 2
+        x: 13849
+        y: 16619
+        width: 482
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac871caf212741a0800000000000000
+      internalID: -6825450221622293329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_14
+      rect:
+        serializedVersion: 2
+        x: 16409
+        y: 16629
+        width: 482
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3da91efc2e03580800000000000000
+      internalID: -8849323885311896609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_15
+      rect:
+        serializedVersion: 2
+        x: 18979
+        y: 16639
+        width: 472
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036af3e5cdd527c70800000000000000
+      internalID: 8967333009103496752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_16
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 14099
+        width: 462
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580a35afb0e780ef0800000000000000
+      internalID: -141724798352646011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_17
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 14099
+        width: 482
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926b532a5ea0fb30800000000000000
+      internalID: 4319143744811786910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_18
+      rect:
+        serializedVersion: 2
+        x: 6199
+        y: 14089
+        width: 472
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121fc9ba99b115150800000000000000
+      internalID: 5859494937008861473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_19
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 14079
+        width: 462
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b9edd25eaddc9c0800000000000000
+      internalID: -3905224624008422584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_20
+      rect:
+        serializedVersion: 2
+        x: 11319
+        y: 14069
+        width: 462
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a488ac9a062964a0800000000000000
+      internalID: -6599701951914933085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_21
+      rect:
+        serializedVersion: 2
+        x: 13879
+        y: 14059
+        width: 452
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb3211f3a581ca30800000000000000
+      internalID: 4233812063875644380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_22
+      rect:
+        serializedVersion: 2
+        x: 16439
+        y: 14059
+        width: 452
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4356781ce4c616620800000000000000
+      internalID: 2765610731692320052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_23
+      rect:
+        serializedVersion: 2
+        x: 18989
+        y: 14059
+        width: 462
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af715d07ea57150800000000000000
+      internalID: 5869789488981998131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_24
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 11499
+        width: 462
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc7383d8174e5830800000000000000
+      internalID: 4061762085888163006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_25
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 11499
+        width: 462
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142679e52ae233fc0800000000000000
+      internalID: -3516415609139666367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_26
+      rect:
+        serializedVersion: 2
+        x: 6159
+        y: 11499
+        width: 482
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918e972fe402023e0800000000000000
+      internalID: -2080627504397555687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_27
+      rect:
+        serializedVersion: 2
+        x: 8699
+        y: 11499
+        width: 502
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1180a05ab5feaa0800000000000000
+      internalID: -6129579803431923290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Shuffle 1000_28
+      rect:
+        serializedVersion: 2
+        x: 11239
+        y: 11489
+        width: 522
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b076937a3c21c4a10800000000000000
+      internalID: 1894910174749615883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf Shuffle 1000_0: 8699938194265920772
+      Elf Shuffle 1000_1: 2081673195511277419
+      Elf Shuffle 1000_10: 6550649995108956008
+      Elf Shuffle 1000_11: -1476600290502244863
+      Elf Shuffle 1000_12: 6668135627766748470
+      Elf Shuffle 1000_13: -6825450221622293329
+      Elf Shuffle 1000_14: -8849323885311896609
+      Elf Shuffle 1000_15: 8967333009103496752
+      Elf Shuffle 1000_16: -141724798352646011
+      Elf Shuffle 1000_17: 4319143744811786910
+      Elf Shuffle 1000_18: 5859494937008861473
+      Elf Shuffle 1000_19: -3905224624008422584
+      Elf Shuffle 1000_2: 5861441226632409785
+      Elf Shuffle 1000_20: -6599701951914933085
+      Elf Shuffle 1000_21: 4233812063875644380
+      Elf Shuffle 1000_22: 2765610731692320052
+      Elf Shuffle 1000_23: 5869789488981998131
+      Elf Shuffle 1000_24: 4061762085888163006
+      Elf Shuffle 1000_25: -3516415609139666367
+      Elf Shuffle 1000_26: -2080627504397555687
+      Elf Shuffle 1000_27: -6129579803431923290
+      Elf Shuffle 1000_28: 1894910174749615883
+      Elf Shuffle 1000_3: 3524070685470573372
+      Elf Shuffle 1000_4: -7780032037260832229
+      Elf Shuffle 1000_5: -4216965791960410912
+      Elf Shuffle 1000_6: -2694036866903835670
+      Elf Shuffle 1000_7: -4703555078397698306
+      Elf Shuffle 1000_8: 5335341176307541100
+      Elf Shuffle 1000_9: 5034610768175274992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

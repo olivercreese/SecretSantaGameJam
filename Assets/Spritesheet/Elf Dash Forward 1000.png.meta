@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: a049186324d20fa4e8bc2c3204fd7064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2160448577940149981
+    second: Elf Dash Forward 1000_0
+  - first:
+      213: 411539341421460008
+    second: Elf Dash Forward 1000_1
+  - first:
+      213: -775307059978589403
+    second: Elf Dash Forward 1000_2
+  - first:
+      213: 1844933146656885193
+    second: Elf Dash Forward 1000_3
+  - first:
+      213: -5353956824008973721
+    second: Elf Dash Forward 1000_4
+  - first:
+      213: 5083429868243777548
+    second: Elf Dash Forward 1000_5
+  - first:
+      213: 8254561092047012679
+    second: Elf Dash Forward 1000_6
+  - first:
+      213: 2992293015485208649
+    second: Elf Dash Forward 1000_7
+  - first:
+      213: -6725755621728326517
+    second: Elf Dash Forward 1000_8
+  - first:
+      213: 122036878500048366
+    second: Elf Dash Forward 1000_9
+  - first:
+      213: -650570941391183505
+    second: Elf Dash Forward 1000_10
+  - first:
+      213: -7662005092202696205
+    second: Elf Dash Forward 1000_11
+  - first:
+      213: 3901998888853734253
+    second: Elf Dash Forward 1000_12
+  - first:
+      213: 4608814438950663579
+    second: Elf Dash Forward 1000_13
+  - first:
+      213: -894966737487194760
+    second: Elf Dash Forward 1000_14
+  - first:
+      213: -3050450992004467487
+    second: Elf Dash Forward 1000_15
+  - first:
+      213: -4832177143971678090
+    second: Elf Dash Forward 1000_16
+  - first:
+      213: -5633876130410938949
+    second: Elf Dash Forward 1000_17
+  - first:
+      213: 305491482189044848
+    second: Elf Dash Forward 1000_18
+  - first:
+      213: 1793542905082865738
+    second: Elf Dash Forward 1000_19
+  - first:
+      213: 8352667222901196529
+    second: Elf Dash Forward 1000_20
+  - first:
+      213: 827349881351923561
+    second: Elf Dash Forward 1000_21
+  - first:
+      213: 4387917346262424739
+    second: Elf Dash Forward 1000_22
+  - first:
+      213: -4332368624115843276
+    second: Elf Dash Forward 1000_23
+  - first:
+      213: -5139109235177293536
+    second: Elf Dash Forward 1000_24
+  - first:
+      213: -2867000178633634338
+    second: Elf Dash Forward 1000_25
+  - first:
+      213: 2395654591057910339
+    second: Elf Dash Forward 1000_26
+  - first:
+      213: -8668878218384503373
+    second: Elf Dash Forward 1000_27
+  - first:
+      213: 1305675443112944571
+    second: Elf Dash Forward 1000_28
+  - first:
+      213: 4141660960762689219
+    second: Elf Dash Forward 1000_29
+  - first:
+      213: 2584122903028241863
+    second: Elf Dash Forward 1000_30
+  - first:
+      213: 3415618761311843433
+    second: Elf Dash Forward 1000_31
+  - first:
+      213: -7520776546245504622
+    second: Elf Dash Forward 1000_32
+  - first:
+      213: -7957902838889998606
+    second: Elf Dash Forward 1000_33
+  - first:
+      213: 268597541648991142
+    second: Elf Dash Forward 1000_34
+  - first:
+      213: 3567187871932999685
+    second: Elf Dash Forward 1000_35
+  - first:
+      213: -6637191425307210452
+    second: Elf Dash Forward 1000_36
+  - first:
+      213: 4528401812720387606
+    second: Elf Dash Forward 1000_37
+  - first:
+      213: -1640714144684020428
+    second: Elf Dash Forward 1000_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 19179
+        width: 482
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6de9bf8847bfd10800000000000000
+      internalID: 2160448577940149981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_1
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 19169
+        width: 502
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a3680c9d416b500800000000000000
+      internalID: 411539341421460008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_2
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 19169
+        width: 532
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52baf12365e8d35f0800000000000000
+      internalID: -775307059978589403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_3
+      rect:
+        serializedVersion: 2
+        x: 8709
+        y: 19169
+        width: 542
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9c3d80ce48a9910800000000000000
+      internalID: 1844933146656885193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_4
+      rect:
+        serializedVersion: 2
+        x: 11269
+        y: 19159
+        width: 542
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762aa2292ace2b5b0800000000000000
+      internalID: -5353956824008973721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_5
+      rect:
+        serializedVersion: 2
+        x: 13799
+        y: 19169
+        width: 602
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f7413888fb8640800000000000000
+      internalID: 5083429868243777548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_6
+      rect:
+        serializedVersion: 2
+        x: 16319
+        y: 19199
+        width: 712
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743093424971e8270800000000000000
+      internalID: 8254561092047012679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_7
+      rect:
+        serializedVersion: 2
+        x: 18839
+        y: 19249
+        width: 812
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d0ebc4a2c68920800000000000000
+      internalID: 2992293015485208649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_8
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 16699
+        width: 812
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cebc885e059a2a0800000000000000
+      internalID: -6725755621728326517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_9
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 16699
+        width: 812
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2e78f4ef81b100800000000000000
+      internalID: 122036878500048366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_10
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 16699
+        width: 822
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ef29fc25b8f6f0800000000000000
+      internalID: -650570941391183505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_11
+      rect:
+        serializedVersion: 2
+        x: 8589
+        y: 16699
+        width: 832
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13604b6f61ba590800000000000000
+      internalID: -7662005092202696205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_12
+      rect:
+        serializedVersion: 2
+        x: 11149
+        y: 16689
+        width: 832
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d638814d05fa62630800000000000000
+      internalID: 3901998888853734253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_13
+      rect:
+        serializedVersion: 2
+        x: 13709
+        y: 16689
+        width: 832
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95785d405cc5ff30800000000000000
+      internalID: 4608814438950663579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_14
+      rect:
+        serializedVersion: 2
+        x: 16259
+        y: 16689
+        width: 842
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87519467e707493f0800000000000000
+      internalID: -894966737487194760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_15
+      rect:
+        serializedVersion: 2
+        x: 18819
+        y: 16689
+        width: 842
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f5d81cfe9aa5d0800000000000000
+      internalID: -3050450992004467487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 14129
+        width: 852
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787ec15d78a0fcb0800000000000000
+      internalID: -4832177143971678090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_17
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 14129
+        width: 852
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdbd4a428370d1b0800000000000000
+      internalID: -5633876130410938949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_18
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 14129
+        width: 852
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c19cd62e25d3400800000000000000
+      internalID: 305491482189044848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_19
+      rect:
+        serializedVersion: 2
+        x: 8579
+        y: 14129
+        width: 852
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e2e205c1f3e810800000000000000
+      internalID: 1793542905082865738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_20
+      rect:
+        serializedVersion: 2
+        x: 11129
+        y: 14059
+        width: 662
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6031cb592aae370800000000000000
+      internalID: 8352667222901196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_21
+      rect:
+        serializedVersion: 2
+        x: 13689
+        y: 14069
+        width: 682
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96761f665565b7b00800000000000000
+      internalID: 827349881351923561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_22
+      rect:
+        serializedVersion: 2
+        x: 16299
+        y: 14059
+        width: 682
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac1fb7049305ec30800000000000000
+      internalID: 4387917346262424739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_23
+      rect:
+        serializedVersion: 2
+        x: 18879
+        y: 14059
+        width: 672
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff683b0b550e3c0800000000000000
+      internalID: -4332368624115843276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_24
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 11499
+        width: 672
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029f357f0673ea8b0800000000000000
+      internalID: -5139109235177293536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_25
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 11499
+        width: 662
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd8f8d078e5638d0800000000000000
+      internalID: -2867000178633634338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_26
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 11499
+        width: 652
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a5a8868231f3120800000000000000
+      internalID: 2395654591057910339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_27
+      rect:
+        serializedVersion: 2
+        x: 8809
+        y: 11499
+        width: 642
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd0218a035f1b780800000000000000
+      internalID: -8668878218384503373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_28
+      rect:
+        serializedVersion: 2
+        x: 11309
+        y: 11499
+        width: 682
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a2b2d5e0be1210800000000000000
+      internalID: 1305675443112944571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_29
+      rect:
+        serializedVersion: 2
+        x: 13819
+        y: 11489
+        width: 702
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6fc5a43b22a7930800000000000000
+      internalID: 4141660960762689219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_30
+      rect:
+        serializedVersion: 2
+        x: 16349
+        y: 11489
+        width: 702
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c513fac616acd320800000000000000
+      internalID: 2584122903028241863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_31
+      rect:
+        serializedVersion: 2
+        x: 18899
+        y: 11489
+        width: 672
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f62caa27b66f20800000000000000
+      internalID: 3415618761311843433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 8929
+        width: 632
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29192f5f395d0a790800000000000000
+      internalID: -7520776546245504622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_33
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 8929
+        width: 612
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f693e2e789df8190800000000000000
+      internalID: -7957902838889998606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_34
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 8929
+        width: 592
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a308818a004ab300800000000000000
+      internalID: 268597541648991142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_35
+      rect:
+        serializedVersion: 2
+        x: 8699
+        y: 8929
+        width: 562
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e5a14872318130800000000000000
+      internalID: 3567187871932999685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_36
+      rect:
+        serializedVersion: 2
+        x: 11269
+        y: 8929
+        width: 532
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d8b446095f3e3a0800000000000000
+      internalID: -6637191425307210452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_37
+      rect:
+        serializedVersion: 2
+        x: 13829
+        y: 8929
+        width: 512
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6160f67c47d18de30800000000000000
+      internalID: 4528401812720387606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Forward 1000_38
+      rect:
+        serializedVersion: 2
+        x: 16399
+        y: 8939
+        width: 482
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6624ad230b39e0800000000000000
+      internalID: -1640714144684020428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf Dash Forward 1000_0: 2160448577940149981
+      Elf Dash Forward 1000_1: 411539341421460008
+      Elf Dash Forward 1000_10: -650570941391183505
+      Elf Dash Forward 1000_11: -7662005092202696205
+      Elf Dash Forward 1000_12: 3901998888853734253
+      Elf Dash Forward 1000_13: 4608814438950663579
+      Elf Dash Forward 1000_14: -894966737487194760
+      Elf Dash Forward 1000_15: -3050450992004467487
+      Elf Dash Forward 1000_16: -4832177143971678090
+      Elf Dash Forward 1000_17: -5633876130410938949
+      Elf Dash Forward 1000_18: 305491482189044848
+      Elf Dash Forward 1000_19: 1793542905082865738
+      Elf Dash Forward 1000_2: -775307059978589403
+      Elf Dash Forward 1000_20: 8352667222901196529
+      Elf Dash Forward 1000_21: 827349881351923561
+      Elf Dash Forward 1000_22: 4387917346262424739
+      Elf Dash Forward 1000_23: -4332368624115843276
+      Elf Dash Forward 1000_24: -5139109235177293536
+      Elf Dash Forward 1000_25: -2867000178633634338
+      Elf Dash Forward 1000_26: 2395654591057910339
+      Elf Dash Forward 1000_27: -8668878218384503373
+      Elf Dash Forward 1000_28: 1305675443112944571
+      Elf Dash Forward 1000_29: 4141660960762689219
+      Elf Dash Forward 1000_3: 1844933146656885193
+      Elf Dash Forward 1000_30: 2584122903028241863
+      Elf Dash Forward 1000_31: 3415618761311843433
+      Elf Dash Forward 1000_32: -7520776546245504622
+      Elf Dash Forward 1000_33: -7957902838889998606
+      Elf Dash Forward 1000_34: 268597541648991142
+      Elf Dash Forward 1000_35: 3567187871932999685
+      Elf Dash Forward 1000_36: -6637191425307210452
+      Elf Dash Forward 1000_37: 4528401812720387606
+      Elf Dash Forward 1000_38: -1640714144684020428
+      Elf Dash Forward 1000_4: -5353956824008973721
+      Elf Dash Forward 1000_5: 5083429868243777548
+      Elf Dash Forward 1000_6: 8254561092047012679
+      Elf Dash Forward 1000_7: 2992293015485208649
+      Elf Dash Forward 1000_8: -6725755621728326517
+      Elf Dash Forward 1000_9: 122036878500048366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

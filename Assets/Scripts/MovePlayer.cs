@@ -7,6 +7,8 @@ public class MovePlayer : MonoBehaviour
     float verticalInput;
     bool facingRight;
     bool isJab;
+    bool isShuffle;
+
 
     Animator anim;
     private void Awake()
@@ -24,19 +26,29 @@ public class MovePlayer : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             isJab = true;
-            anim.SetBool("isJab",isJab);
+            anim.SetBool("isJab", isJab);
         }
         else if (Input.GetKeyUp(KeyCode.Space)) isJab = false;
+
+        if (horizontalInput == 0 && verticalInput != 0 && !isJab)
+        {
+            isShuffle = true;
+        }
+        else isShuffle = false;
+
+        anim.SetBool("isShuffle", isShuffle);
+
     }
 
     private void FixedUpdate()
     {
-       if ((horizontalInput != 0 || horizontalInput != 0) && !isJab)
-       {
+
+        if ((horizontalInput != 0 || horizontalInput != 0) && !isJab)
+        {
             Vector3 movement = new Vector3(horizontalInput * runSpeed, verticalInput * runSpeed, 0);
             transform.position = transform.position + movement * Time.deltaTime;
-       }
-       Flip(-horizontalInput);
+        }
+        Flip(-horizontalInput);
     }
 
     private void Flip(float horizontal)

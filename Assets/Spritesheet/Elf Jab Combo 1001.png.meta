@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 890eecae04fe1e04ca0170f6780e1b65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4473451162487457548
+    second: Elf Jab Combo 1000_0
+  - first:
+      213: -8730408698865403665
+    second: Elf Jab Combo 1000_1
+  - first:
+      213: 9051090006961117342
+    second: Elf Jab Combo 1000_2
+  - first:
+      213: 4875678660940728953
+    second: Elf Jab Combo 1000_3
+  - first:
+      213: 3232601107151363420
+    second: Elf Jab Combo 1000_4
+  - first:
+      213: 129149743991839171
+    second: Elf Jab Combo 1000_5
+  - first:
+      213: -9214950590417274572
+    second: Elf Jab Combo 1000_6
+  - first:
+      213: 3054651980131635829
+    second: Elf Jab Combo 1000_7
+  - first:
+      213: -1679725890984002788
+    second: Elf Jab Combo 1000_8
+  - first:
+      213: -793002560169416976
+    second: Elf Jab Combo 1000_9
+  - first:
+      213: -2605924815246998366
+    second: Elf Jab Combo 1000_10
+  - first:
+      213: 1678365175910523716
+    second: Elf Jab Combo 1000_11
+  - first:
+      213: -445221036593117184
+    second: Elf Jab Combo 1000_12
+  - first:
+      213: 267873849638988741
+    second: Elf Jab Combo 1000_13
+  - first:
+      213: 8447249508407881117
+    second: Elf Jab Combo 1000_14
+  - first:
+      213: 3967658650771027736
+    second: Elf Jab Combo 1000_15
+  - first:
+      213: -5939452441782156646
+    second: Elf Jab Combo 1000_16
+  - first:
+      213: 5969388126301977149
+    second: Elf Jab Combo 1000_17
+  - first:
+      213: 5103534041001707793
+    second: Elf Jab Combo 1000_18
+  - first:
+      213: 5514547131214239192
+    second: Elf Jab Combo 1000_19
+  - first:
+      213: 3692244822486573194
+    second: Elf Jab Combo 1000_20
+  - first:
+      213: 1554744095711228170
+    second: Elf Jab Combo 1000_21
+  - first:
+      213: 5763805485190739575
+    second: Elf Jab Combo 1000_22
+  - first:
+      213: 6066519744866856342
+    second: Elf Jab Combo 1000_23
+  - first:
+      213: -2298934999215838093
+    second: Elf Jab Combo 1000_24
+  - first:
+      213: 64022582862478214
+    second: Elf Jab Combo 1000_25
+  - first:
+      213: 454940773609474094
+    second: Elf Jab Combo 1000_26
+  - first:
+      213: -956878587801437692
+    second: Elf Jab Combo 1000_27
+  - first:
+      213: 7324581374081163812
+    second: Elf Jab Combo 1000_28
+  - first:
+      213: -2124656508263597737
+    second: Elf Jab Combo 1000_29
+  - first:
+      213: -4944676051670480474
+    second: Elf Jab Combo 1000_30
+  - first:
+      213: 1168492928673169149
+    second: Elf Jab Combo 1000_31
+  - first:
+      213: 7514266461798365504
+    second: Elf Jab Combo 1000_32
+  - first:
+      213: 7024718312582799504
+    second: Elf Jab Combo 1000_33
+  - first:
+      213: -2146074976754350242
+    second: Elf Jab Combo 1000_34
+  - first:
+      213: 7939726423146623822
+    second: Elf Jab Combo 1000_35
+  - first:
+      213: 1316398503870654449
+    second: Elf Jab Combo 1000_36
+  - first:
+      213: -8205001047518083648
+    second: Elf Jab Combo 1000_37
+  - first:
+      213: -6880923304062002198
+    second: Elf Jab Combo 1000_38
+  - first:
+      213: -165060304339397082
+    second: Elf Jab Combo 1000_39
+  - first:
+      213: -1981748166577802080
+    second: Elf Jab Combo 1000_40
+  - first:
+      213: 5645059687042041717
+    second: Elf Jab Combo 1000_41
+  - first:
+      213: -601774696593954843
+    second: Elf Jab Combo 1000_42
+  - first:
+      213: 5700866469934035430
+    second: Elf Jab Combo 1000_43
+  - first:
+      213: -454217752049677910
+    second: Elf Jab Combo 1000_44
+  - first:
+      213: -1009858539289778175
+    second: Elf Jab Combo 1000_45
+  - first:
+      213: 3835147299917493183
+    second: Elf Jab Combo 1000_46
+  - first:
+      213: 2641309188946313350
+    second: Elf Jab Combo 1000_47
+  - first:
+      213: -5714891938132563773
+    second: Elf Jab Combo 1000_48
+  - first:
+      213: -2512792403289912070
+    second: Elf Jab Combo 1000_49
+  - first:
+      213: -2227539852020405122
+    second: Elf Jab Combo 1000_50
+  - first:
+      213: -3911817977629328576
+    second: Elf Jab Combo 1000_51
+  - first:
+      213: 2214619973055568618
+    second: Elf Jab Combo 1000_52
+  - first:
+      213: 2055637880754480347
+    second: Elf Jab Combo 1000_53
+  - first:
+      213: 5746038658082545539
+    second: Elf Jab Combo 1000_54
+  - first:
+      213: 1330730889849554870
+    second: Elf Jab Combo 1000_55
+  - first:
+      213: -5698430059625710955
+    second: Elf Jab Combo 1000_56
+  - first:
+      213: 5875518695724841485
+    second: Elf Jab Combo 1000_57
+  - first:
+      213: -4345984664442844383
+    second: Elf Jab Combo 1000_58
+  - first:
+      213: -5179977096903900437
+    second: Elf Jab Combo 1000_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_0
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 19179
+        width: 432
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f870eb7edb1be1c0800000000000000
+      internalID: -4473451162487457548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_1
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 19179
+        width: 552
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8b5284b8b57d680800000000000000
+      internalID: -8730408698865403665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_2
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 19179
+        width: 842
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985107186eeb9d70800000000000000
+      internalID: 9051090006961117342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_3
+      rect:
+        serializedVersion: 2
+        x: 8749
+        y: 19179
+        width: 822
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a0350e8e3e9a340800000000000000
+      internalID: 4875678660940728953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_4
+      rect:
+        serializedVersion: 2
+        x: 11319
+        y: 19179
+        width: 782
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9a4474918cdc20800000000000000
+      internalID: 3232601107151363420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_5
+      rect:
+        serializedVersion: 2
+        x: 13889
+        y: 19179
+        width: 742
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c957750205dac100800000000000000
+      internalID: 129149743991839171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_6
+      rect:
+        serializedVersion: 2
+        x: 16439
+        y: 19179
+        width: 732
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f66bc24bed1080800000000000000
+      internalID: -9214950590417274572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_7
+      rect:
+        serializedVersion: 2
+        x: 18999
+        y: 19179
+        width: 702
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572903caacd446a20800000000000000
+      internalID: 3054651980131635829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_8
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 16619
+        width: 632
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3fd3a33a60b8e0800000000000000
+      internalID: -1679725890984002788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_9
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 16619
+        width: 562
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6602f7f50bef4f0800000000000000
+      internalID: -793002560169416976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_10
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 16619
+        width: 472
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c3d3ff25e5dbd0800000000000000
+      internalID: -2605924815246998366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_11
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 16619
+        width: 472
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44368813c30ca4710800000000000000
+      internalID: 1678365175910523716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_12
+      rect:
+        serializedVersion: 2
+        x: 13899
+        y: 16619
+        width: 572
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008065b73d142d9f0800000000000000
+      internalID: -445221036593117184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_13
+      rect:
+        serializedVersion: 2
+        x: 16449
+        y: 16619
+        width: 582
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2954d8dda7b300800000000000000
+      internalID: 267873849638988741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_14
+      rect:
+        serializedVersion: 2
+        x: 18999
+        y: 16619
+        width: 842
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9daeb52ca8aa3570800000000000000
+      internalID: 8447249508407881117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 14059
+        width: 842
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81776357584ff0730800000000000000
+      internalID: 3967658650771027736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_16
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 14059
+        width: 782
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928f370973d29da0800000000000000
+      internalID: -5939452441782156646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_17
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 14059
+        width: 702
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af9aaafd687d250800000000000000
+      internalID: 5969388126301977149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_18
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 14059
+        width: 672
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119450dab2563d640800000000000000
+      internalID: 5103534041001707793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_19
+      rect:
+        serializedVersion: 2
+        x: 11319
+        y: 14059
+        width: 622
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d59c25066b978c40800000000000000
+      internalID: 5514547131214239192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_20
+      rect:
+        serializedVersion: 2
+        x: 13869
+        y: 14059
+        width: 542
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80661c8a1d7d3330800000000000000
+      internalID: 3692244822486573194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_21
+      rect:
+        serializedVersion: 2
+        x: 16409
+        y: 14059
+        width: 472
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01f085848f839510800000000000000
+      internalID: 1554744095711228170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_22
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 11489
+        width: 612
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776fd330d862dff40800000000000000
+      internalID: 5763805485190739575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_23
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 11499
+        width: 622
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69daeafe09b903450800000000000000
+      internalID: 6066519744866856342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_24
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 11489
+        width: 522
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce60a6cca8810e0800000000000000
+      internalID: -2298934999215838093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_25
+      rect:
+        serializedVersion: 2
+        x: 8989
+        y: 11499
+        width: 382
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bfe1d233473e000800000000000000
+      internalID: 64022582862478214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_26
+      rect:
+        serializedVersion: 2
+        x: 11579
+        y: 11509
+        width: 632
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2885d42936405600800000000000000
+      internalID: 454940773609474094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_27
+      rect:
+        serializedVersion: 2
+        x: 14119
+        y: 11489
+        width: 502
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40afae08efb78b2f0800000000000000
+      internalID: -956878587801437692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_28
+      rect:
+        serializedVersion: 2
+        x: 16679
+        y: 11499
+        width: 522
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422ec82d3f326a560800000000000000
+      internalID: 7324581374081163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_29
+      rect:
+        serializedVersion: 2
+        x: 19239
+        y: 11499
+        width: 542
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f933a924b382e0800000000000000
+      internalID: -2124656508263597737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_30
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 8919
+        width: 512
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ccca345bf06bb0800000000000000
+      internalID: -4944676051670480474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_31
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 8919
+        width: 522
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebe10b022573010800000000000000
+      internalID: 1168492928673169149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_32
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 8909
+        width: 542
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0497f13e889084860800000000000000
+      internalID: 7514266461798365504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_33
+      rect:
+        serializedVersion: 2
+        x: 9019
+        y: 8919
+        width: 772
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090eda43610dc7160800000000000000
+      internalID: 7024718312582799504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_34
+      rect:
+        serializedVersion: 2
+        x: 11449
+        y: 8929
+        width: 872
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c335dd2c9732e0800000000000000
+      internalID: -2146074976754350242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_35
+      rect:
+        serializedVersion: 2
+        x: 13999
+        y: 8919
+        width: 682
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ff698d139f2e60800000000000000
+      internalID: 7939726423146623822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_36
+      rect:
+        serializedVersion: 2
+        x: 16569
+        y: 8879
+        width: 492
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e016f679c44210800000000000000
+      internalID: 1316398503870654449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_37
+      rect:
+        serializedVersion: 2
+        x: 19139
+        y: 8899
+        width: 482
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c50afce40bf12e80800000000000000
+      internalID: -8205001047518083648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_38
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6359
+        width: 482
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5dae26bc0280a0800000000000000
+      internalID: -6880923304062002198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_39
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 6369
+        width: 492
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6261559178695bdf0800000000000000
+      internalID: -165060304339397082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_40
+      rect:
+        serializedVersion: 2
+        x: 6259
+        y: 6379
+        width: 542
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a439d0da8a6f74e0800000000000000
+      internalID: -1981748166577802080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_41
+      rect:
+        serializedVersion: 2
+        x: 8799
+        y: 6379
+        width: 532
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c40660e7475e40800000000000000
+      internalID: 5645059687042041717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_42
+      rect:
+        serializedVersion: 2
+        x: 11339
+        y: 6379
+        width: 512
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e2be0a1116a7f0800000000000000
+      internalID: -601774696593954843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_43
+      rect:
+        serializedVersion: 2
+        x: 13879
+        y: 6379
+        width: 502
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e17a5499db8d1f40800000000000000
+      internalID: 5700866469934035430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_44
+      rect:
+        serializedVersion: 2
+        x: 16419
+        y: 6379
+        width: 492
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9076e6c5b42b9f0800000000000000
+      internalID: -454217752049677910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_45
+      rect:
+        serializedVersion: 2
+        x: 18969
+        y: 6379
+        width: 472
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108ec3c42034cf1f0800000000000000
+      internalID: -1009858539289778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_46
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 3819
+        width: 432
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb371e8562e293530800000000000000
+      internalID: 3835147299917493183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_47
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 3819
+        width: 552
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680ce1d86b0d7a420800000000000000
+      internalID: 2641309188946313350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_48
+      rect:
+        serializedVersion: 2
+        x: 8749
+        y: 3819
+        width: 842
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c86dd1af00a0b0b0800000000000000
+      internalID: -5714891938132563773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_49
+      rect:
+        serializedVersion: 2
+        x: 11309
+        y: 3819
+        width: 822
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcca9f5f94c02dd0800000000000000
+      internalID: -2512792403289912070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_50
+      rect:
+        serializedVersion: 2
+        x: 13879
+        y: 3819
+        width: 782
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2c4d7e403611e0800000000000000
+      internalID: -2227539852020405122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_51
+      rect:
+        serializedVersion: 2
+        x: 16449
+        y: 3819
+        width: 742
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bba69664e66b9c0800000000000000
+      internalID: -3911817977629328576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_52
+      rect:
+        serializedVersion: 2
+        x: 18999
+        y: 3819
+        width: 732
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea5676c129ebbe10800000000000000
+      internalID: 2214619973055568618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_53
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1259
+        width: 702
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42535e2c7178c10800000000000000
+      internalID: 2055637880754480347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_54
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 1259
+        width: 632
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1ca837b70ebf40800000000000000
+      internalID: 5746038658082545539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_55
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 1259
+        width: 562
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74f1d91b4b77210800000000000000
+      internalID: 1330730889849554870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_56
+      rect:
+        serializedVersion: 2
+        x: 8729
+        y: 1259
+        width: 472
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af9966d0c1be0b0800000000000000
+      internalID: -5698430059625710955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_57
+      rect:
+        serializedVersion: 2
+        x: 13879
+        y: 1259
+        width: 702
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a78d9bf190a8150800000000000000
+      internalID: 5875518695724841485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_58
+      rect:
+        serializedVersion: 2
+        x: 16459
+        y: 1259
+        width: 572
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bc69449f5ffa3c0800000000000000
+      internalID: -4345984664442844383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Jab Combo 1000_59
+      rect:
+        serializedVersion: 2
+        x: 19009
+        y: 1259
+        width: 582
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2426a66460d18b0800000000000000
+      internalID: -5179977096903900437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf Jab Combo 1000_0: -4473451162487457548
+      Elf Jab Combo 1000_1: -8730408698865403665
+      Elf Jab Combo 1000_10: -2605924815246998366
+      Elf Jab Combo 1000_11: 1678365175910523716
+      Elf Jab Combo 1000_12: -445221036593117184
+      Elf Jab Combo 1000_13: 267873849638988741
+      Elf Jab Combo 1000_14: 8447249508407881117
+      Elf Jab Combo 1000_15: 3967658650771027736
+      Elf Jab Combo 1000_16: -5939452441782156646
+      Elf Jab Combo 1000_17: 5969388126301977149
+      Elf Jab Combo 1000_18: 5103534041001707793
+      Elf Jab Combo 1000_19: 5514547131214239192
+      Elf Jab Combo 1000_2: 9051090006961117342
+      Elf Jab Combo 1000_20: 3692244822486573194
+      Elf Jab Combo 1000_21: 1554744095711228170
+      Elf Jab Combo 1000_22: 5763805485190739575
+      Elf Jab Combo 1000_23: 6066519744866856342
+      Elf Jab Combo 1000_24: -2298934999215838093
+      Elf Jab Combo 1000_25: 64022582862478214
+      Elf Jab Combo 1000_26: 454940773609474094
+      Elf Jab Combo 1000_27: -956878587801437692
+      Elf Jab Combo 1000_28: 7324581374081163812
+      Elf Jab Combo 1000_29: -2124656508263597737
+      Elf Jab Combo 1000_3: 4875678660940728953
+      Elf Jab Combo 1000_30: -4944676051670480474
+      Elf Jab Combo 1000_31: 1168492928673169149
+      Elf Jab Combo 1000_32: 7514266461798365504
+      Elf Jab Combo 1000_33: 7024718312582799504
+      Elf Jab Combo 1000_34: -2146074976754350242
+      Elf Jab Combo 1000_35: 7939726423146623822
+      Elf Jab Combo 1000_36: 1316398503870654449
+      Elf Jab Combo 1000_37: -8205001047518083648
+      Elf Jab Combo 1000_38: -6880923304062002198
+      Elf Jab Combo 1000_39: -165060304339397082
+      Elf Jab Combo 1000_4: 3232601107151363420
+      Elf Jab Combo 1000_40: -1981748166577802080
+      Elf Jab Combo 1000_41: 5645059687042041717
+      Elf Jab Combo 1000_42: -601774696593954843
+      Elf Jab Combo 1000_43: 5700866469934035430
+      Elf Jab Combo 1000_44: -454217752049677910
+      Elf Jab Combo 1000_45: -1009858539289778175
+      Elf Jab Combo 1000_46: 3835147299917493183
+      Elf Jab Combo 1000_47: 2641309188946313350
+      Elf Jab Combo 1000_48: -5714891938132563773
+      Elf Jab Combo 1000_49: -2512792403289912070
+      Elf Jab Combo 1000_5: 129149743991839171
+      Elf Jab Combo 1000_50: -2227539852020405122
+      Elf Jab Combo 1000_51: -3911817977629328576
+      Elf Jab Combo 1000_52: 2214619973055568618
+      Elf Jab Combo 1000_53: 2055637880754480347
+      Elf Jab Combo 1000_54: 5746038658082545539
+      Elf Jab Combo 1000_55: 1330730889849554870
+      Elf Jab Combo 1000_56: -5698430059625710955
+      Elf Jab Combo 1000_57: 5875518695724841485
+      Elf Jab Combo 1000_58: -4345984664442844383
+      Elf Jab Combo 1000_59: -5179977096903900437
+      Elf Jab Combo 1000_6: -9214950590417274572
+      Elf Jab Combo 1000_7: 3054651980131635829
+      Elf Jab Combo 1000_8: -1679725890984002788
+      Elf Jab Combo 1000_9: -793002560169416976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
