@@ -2,19 +2,16 @@ using UnityEngine;
 
 public class MovePlayer : MonoBehaviour
 {
-    public int runSpeed = 1;
+    public float runSpeed = 1;
     float horizontalInput;
     float verticalInput;
     bool facingRight;
     bool isJab;
-    bool isShuffle;
-
 
     Animator anim;
     private void Awake()
     {
         anim = GetComponent<Animator>();
-    
     }
     // Update is called once per frame
     void Update()
@@ -30,20 +27,24 @@ public class MovePlayer : MonoBehaviour
         }
         else if (Input.GetKeyUp(KeyCode.Space)) isJab = false;
 
+        if (horizontalInput != 0 && !isJab)
+        {
+            anim.SetBool("isRunning", true);
+        }
+        else anim.SetBool("isRunning", false);
+        
         if (horizontalInput == 0 && verticalInput != 0 && !isJab)
         {
-            isShuffle = true;
+            anim.SetBool("isShuffle", true);
         }
-        else isShuffle = false;
-
-        anim.SetBool("isShuffle", isShuffle);
-
+        else anim.SetBool("isShuffle", false);
+       
     }
 
     private void FixedUpdate()
     {
 
-        if ((horizontalInput != 0 || horizontalInput != 0) && !isJab)
+        if ((horizontalInput != 0 || verticalInput != 0) && !isJab)
         {
             Vector3 movement = new Vector3(horizontalInput * runSpeed, verticalInput * runSpeed, 0);
             transform.position = transform.position + movement * Time.deltaTime;
