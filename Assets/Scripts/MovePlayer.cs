@@ -28,8 +28,10 @@ public class MovePlayer : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.J) && !isAttack)
         {
             isAttack = true;
+            comboPressed = true;
             anim.SetTrigger("isJab");
         }
+
     
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -60,41 +62,27 @@ public class MovePlayer : MonoBehaviour
             anim.SetBool("isShuffle", true);
         }
         else anim.SetBool("isShuffle", false);
-
         detectCombo();
     }
 
     private void detectCombo()
     {
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            comboPressed = true;
-            if (Input.GetKeyDown(KeyCode.J) && counter < 0.5f)
-            {
-                if (Input.GetKeyDown(KeyCode.K) && counter < 0.5f)
-                {
-                    anim.SetTrigger("isCombo");
-                }
-            }
-            else counter = 0;
-            
-        }
         if (comboPressed)
         {
             counter += Time.deltaTime;
-            if (Input.GetKeyDown(KeyCode.J) && counter < 0.5f)
-            {
-                comboPressed1 = true;
-            }
             if (counter > 0.5f)
             {
                 counter = 0;
                 comboPressed = false;
                 comboPressed1 = false;
             }
+            if (Input.GetKeyDown(KeyCode.K) && (counter < 0.5f && counter > 0))
+            {
+                comboPressed1 = true;
+            }
             if (comboPressed1)
             {
-                if (Input.GetKeyDown(KeyCode.K) && counter < 0.5f)
+                if (Input.GetKeyDown(KeyCode.J) && (counter < 0.5f && counter > 0))
                 {
                     anim.SetTrigger("isCombo");
                 }
