@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elf_walk_0: 145885272568563908
+      elf_walk_1: -7066570445600034450
+      elf_walk_10: -7028874983002725954
+      elf_walk_11: 3754900946697236251
+      elf_walk_12: -4189503720760501326
+      elf_walk_13: -5900849843992523581
+      elf_walk_14: -4039325863211529034
+      elf_walk_15: -1504416904125484541
+      elf_walk_16: 2460956438258399914
+      elf_walk_17: 2386565900926773874
+      elf_walk_18: 1812422552761767176
+      elf_walk_19: -1754462791870209889
+      elf_walk_2: -1668848275168783054
+      elf_walk_20: 5889394285637866202
+      elf_walk_21: 8626898403661403507
+      elf_walk_22: -318722962948052261
+      elf_walk_23: 8656117343316390341
+      elf_walk_24: -2647797605781999883
+      elf_walk_25: -7511147785884405059
+      elf_walk_26: -1460053657744945286
+      elf_walk_27: -301577680416474502
+      elf_walk_28: -7490081434531641535
+      elf_walk_3: 7885043353818990963
+      elf_walk_4: -482291571312725661
+      elf_walk_5: -629791756309333937
+      elf_walk_6: -5788191787734890080
+      elf_walk_7: 6216446298752603474
+      elf_walk_8: 8857824660070683482
+      elf_walk_9: -6017269664540651259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
