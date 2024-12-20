@@ -1,136 +1,124 @@
 fileFormatVersion: 2
-guid: bdeaa246c202a7d42b8a3723460b97b0
+guid: f962c3ba681c0714cb2d76bdcd0804f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5390619591566804107
-    second: elf_idle_0
+      213: 2160448577940149981
+    second: Elf Dash Forward 1000_0
   - first:
-      213: -5354632589088447618
-    second: elf_idle_1
+      213: 411539341421460008
+    second: Elf Dash Forward 1000_1
   - first:
-      213: -4461356658669794075
-    second: elf_idle_2
+      213: -775307059978589403
+    second: Elf Dash Forward 1000_2
   - first:
-      213: -2471953249502029990
-    second: elf_idle_3
+      213: 1844933146656885193
+    second: Elf Dash Forward 1000_3
   - first:
-      213: 6179184788101449899
-    second: elf_idle_4
+      213: -5353956824008973721
+    second: Elf Dash Forward 1000_4
   - first:
-      213: 223288352698060092
-    second: elf_idle_5
+      213: 5083429868243777548
+    second: Elf Dash Forward 1000_5
   - first:
-      213: -6276982093109578489
-    second: elf_idle_6
+      213: 8254561092047012679
+    second: Elf Dash Forward 1000_6
   - first:
-      213: -4867128059509435999
-    second: elf_idle_7
+      213: 2992293015485208649
+    second: Elf Dash Forward 1000_7
   - first:
-      213: 1818332887593264183
-    second: elf_idle_8
+      213: -6725755621728326517
+    second: Elf Dash Forward 1000_8
   - first:
-      213: -1150206158134933265
-    second: elf_idle_9
+      213: 122036878500048366
+    second: Elf Dash Forward 1000_9
   - first:
-      213: 6846785236796024696
-    second: elf_idle_10
+      213: -650570941391183505
+    second: Elf Dash Forward 1000_10
   - first:
-      213: -2435042939200993104
-    second: elf_idle_11
+      213: -7662005092202696205
+    second: Elf Dash Forward 1000_11
   - first:
-      213: 6674013678137244729
-    second: elf_idle_12
+      213: 3901998888853734253
+    second: Elf Dash Forward 1000_12
   - first:
-      213: 5545684783969059260
-    second: elf_idle_13
+      213: 4608814438950663579
+    second: Elf Dash Forward 1000_13
   - first:
-      213: -7531209954110648369
-    second: elf_idle_14
+      213: -894966737487194760
+    second: Elf Dash Forward 1000_14
   - first:
-      213: 3792920201306799347
-    second: elf_idle_15
+      213: -3050450992004467487
+    second: Elf Dash Forward 1000_15
   - first:
-      213: 8804529453878643044
-    second: elf_idle_16
+      213: -4832177143971678090
+    second: Elf Dash Forward 1000_16
   - first:
-      213: -1559920330736630289
-    second: elf_idle_17
+      213: -5633876130410938949
+    second: Elf Dash Forward 1000_17
   - first:
-      213: 944739413424220482
-    second: elf_idle_18
+      213: 305491482189044848
+    second: Elf Dash Forward 1000_18
   - first:
-      213: 2638561763191010607
-    second: elf_idle_19
+      213: 1793542905082865738
+    second: Elf Dash Forward 1000_19
   - first:
-      213: -450447597356658339
-    second: elf_idle_20
+      213: 8352667222901196529
+    second: Elf Dash Forward 1000_20
   - first:
-      213: -4020848599614194386
-    second: elf_idle_21
+      213: 827349881351923561
+    second: Elf Dash Forward 1000_21
   - first:
-      213: 6948616352252712604
-    second: elf_idle_22
+      213: 4387917346262424739
+    second: Elf Dash Forward 1000_22
   - first:
-      213: -678282536319226583
-    second: elf_idle_23
+      213: -4332368624115843276
+    second: Elf Dash Forward 1000_23
   - first:
-      213: 2677522609362597969
-    second: elf_idle_24
+      213: -5139109235177293536
+    second: Elf Dash Forward 1000_24
   - first:
-      213: 6071136846601664142
-    second: elf_idle_25
+      213: -2867000178633634338
+    second: Elf Dash Forward 1000_25
   - first:
-      213: 1375366608596035931
-    second: elf_idle_26
+      213: 2395654591057910339
+    second: Elf Dash Forward 1000_26
   - first:
-      213: -7365924130909414531
-    second: elf_idle_27
+      213: -8668878218384503373
+    second: Elf Dash Forward 1000_27
   - first:
-      213: -7854259360070741591
-    second: elf_idle_28
+      213: 1305675443112944571
+    second: Elf Dash Forward 1000_28
   - first:
-      213: 7366607993770603408
-    second: elf_idle_29
+      213: 4141660960762689219
+    second: Elf Dash Forward 1000_29
   - first:
-      213: -794606844090845925
-    second: elf_idle_30
+      213: 2584122903028241863
+    second: Elf Dash Forward 1000_30
   - first:
-      213: 5534134747454338487
-    second: elf_idle_31
+      213: 3415618761311843433
+    second: Elf Dash Forward 1000_31
   - first:
-      213: -5755715288931201670
-    second: elf_idle_32
+      213: -7520776546245504622
+    second: Elf Dash Forward 1000_32
   - first:
-      213: 6491798118087316775
-    second: elf_idle_33
+      213: -7957902838889998606
+    second: Elf Dash Forward 1000_33
   - first:
-      213: -2199293919263032801
-    second: elf_idle_34
+      213: 268597541648991142
+    second: Elf Dash Forward 1000_34
   - first:
-      213: 2326655720187649543
-    second: elf_idle_35
+      213: 3567187871932999685
+    second: Elf Dash Forward 1000_35
   - first:
-      213: 6330711025390687087
-    second: elf_idle_36
+      213: -6637191425307210452
+    second: Elf Dash Forward 1000_36
   - first:
-      213: 2226807978621229910
-    second: elf_idle_37
+      213: 4528401812720387606
+    second: Elf Dash Forward 1000_37
   - first:
-      213: -8468512412990379995
-    second: elf_idle_38
-  - first:
-      213: -8177348745981502125
-    second: elf_idle_39
-  - first:
-      213: 4146818401636686487
-    second: elf_idle_40
-  - first:
-      213: 7037454888576100436
-    second: elf_idle_41
-  - first:
-      213: 2706563750082230775
-    second: elf_idle_42
+      213: -1640714144684020428
+    second: Elf Dash Forward 1000_38
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -226,13 +214,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf_idle_0
+      name: Elf Dash Forward 1000_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1916
-        width: 50
-        height: 92
+        x: 1039
+        y: 19179
+        width: 482
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57b366dca0ca035b0800000000000000
-      internalID: -5390619591566804107
+      spriteID: dd6de9bf8847bfd10800000000000000
+      internalID: 2160448577940149981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_1
+      name: Elf Dash Forward 1000_1
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1916
-        width: 50
-        height: 92
+        x: 3599
+        y: 19169
+        width: 502
+        height: 942
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7327a0c70680b5b0800000000000000
-      internalID: -5354632589088447618
+      spriteID: 82a3680c9d416b500800000000000000
+      internalID: 411539341421460008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_2
+      name: Elf Dash Forward 1000_2
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1916
-        width: 50
-        height: 92
+        x: 6149
+        y: 19169
+        width: 532
+        height: 892
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,20 +273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ecc9a791c31612c0800000000000000
-      internalID: -4461356658669794075
+      spriteID: 52baf12365e8d35f0800000000000000
+      internalID: -775307059978589403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_3
+      name: Elf Dash Forward 1000_3
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1916
-        width: 51
-        height: 92
+        x: 8709
+        y: 19169
+        width: 542
+        height: 832
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +295,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a571f06dd9bd1bdd0800000000000000
-      internalID: -2471953249502029990
+      spriteID: 9c9c3d80ce48a9910800000000000000
+      internalID: 1844933146656885193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_4
+      name: Elf Dash Forward 1000_4
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1916
-        width: 51
-        height: 92
+        x: 11269
+        y: 19159
+        width: 542
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +317,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba8c84873dfd0c550800000000000000
-      internalID: 6179184788101449899
+      spriteID: 762aa2292ace2b5b0800000000000000
+      internalID: -5353956824008973721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_5
+      name: Elf Dash Forward 1000_5
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1915
-        width: 51
-        height: 92
+        x: 13799
+        y: 19169
+        width: 602
+        height: 822
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,20 +339,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3dcc01e297491300800000000000000
-      internalID: 223288352698060092
+      spriteID: c08f7413888fb8640800000000000000
+      internalID: 5083429868243777548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_6
+      name: Elf Dash Forward 1000_6
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1915
-        width: 52
-        height: 92
+        x: 16319
+        y: 19199
+        width: 712
+        height: 822
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,20 +361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70537be0b0ea3e8a0800000000000000
-      internalID: -6276982093109578489
+      spriteID: 743093424971e8270800000000000000
+      internalID: 8254561092047012679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_7
+      name: Elf Dash Forward 1000_7
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1915
-        width: 53
-        height: 92
+        x: 18839
+        y: 19249
+        width: 812
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a19a9821dc747cb0800000000000000
-      internalID: -4867128059509435999
+      spriteID: 948d0ebc4a2c68920800000000000000
+      internalID: 2992293015485208649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_8
+      name: Elf Dash Forward 1000_8
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1659
-        width: 53
-        height: 91
+        x: 919
+        y: 16699
+        width: 812
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 734286890240c3910800000000000000
-      internalID: 1818332887593264183
+      spriteID: b8cebc885e059a2a0800000000000000
+      internalID: -6725755621728326517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_9
+      name: Elf Dash Forward 1000_9
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1659
-        width: 54
-        height: 90
+        x: 3479
+        y: 16699
+        width: 812
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,20 +427,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe886edd795a900f0800000000000000
-      internalID: -1150206158134933265
+      spriteID: eed2e78f4ef81b100800000000000000
+      internalID: 122036878500048366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_10
+      name: Elf Dash Forward 1000_10
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1659
-        width: 54
-        height: 90
+        x: 6029
+        y: 16699
+        width: 822
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,20 +449,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 877ad94a5eaa40f50800000000000000
-      internalID: 6846785236796024696
+      spriteID: f61ef29fc25b8f6f0800000000000000
+      internalID: -650570941391183505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_11
+      name: Elf Dash Forward 1000_11
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1659
-        width: 54
-        height: 89
+        x: 8589
+        y: 16699
+        width: 832
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,20 +471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b80a14295df43ed0800000000000000
-      internalID: -2435042939200993104
+      spriteID: 3f13604b6f61ba590800000000000000
+      internalID: -7662005092202696205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_12
+      name: Elf Dash Forward 1000_12
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1659
-        width: 55
-        height: 89
+        x: 11149
+        y: 16689
+        width: 832
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,20 +493,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93cf77f641cde9c50800000000000000
-      internalID: 6674013678137244729
+      spriteID: d638814d05fa62630800000000000000
+      internalID: 3901998888853734253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_13
+      name: Elf Dash Forward 1000_13
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1659
-        width: 55
-        height: 88
+        x: 13709
+        y: 16689
+        width: 832
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,20 +515,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb1c3c0cdea36fc40800000000000000
-      internalID: 5545684783969059260
+      spriteID: b95785d405cc5ff30800000000000000
+      internalID: 4608814438950663579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_14
+      name: Elf Dash Forward 1000_14
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1660
-        width: 55
-        height: 87
+        x: 16259
+        y: 16689
+        width: 842
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,20 +537,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fcf4954e274cb7790800000000000000
-      internalID: -7531209954110648369
+      spriteID: 87519467e707493f0800000000000000
+      internalID: -894966737487194760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_15
+      name: Elf Dash Forward 1000_15
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1659
-        width: 55
-        height: 88
+        x: 18819
+        y: 16689
+        width: 842
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,20 +559,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3fc7b4cc3d823a430800000000000000
-      internalID: 3792920201306799347
+      spriteID: 1e4f5d81cfe9aa5d0800000000000000
+      internalID: -3050450992004467487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_16
+      name: Elf Dash Forward 1000_16
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1403
-        width: 55
-        height: 89
+        x: 899
+        y: 14129
+        width: 852
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,20 +581,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46986e0d3e8ff2a70800000000000000
-      internalID: 8804529453878643044
+      spriteID: 6787ec15d78a0fcb0800000000000000
+      internalID: -4832177143971678090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_17
+      name: Elf Dash Forward 1000_17
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1403
-        width: 55
-        height: 89
+        x: 3459
+        y: 14129
+        width: 852
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +603,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe5888859bc0a5ae0800000000000000
-      internalID: -1559920330736630289
+      spriteID: bbdbd4a428370d1b0800000000000000
+      internalID: -5633876130410938949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_18
+      name: Elf Dash Forward 1000_18
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1403
-        width: 55
-        height: 89
+        x: 6019
+        y: 14129
+        width: 852
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,20 +625,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2492676bd736c1d00800000000000000
-      internalID: 944739413424220482
+      spriteID: 07c19cd62e25d3400800000000000000
+      internalID: 305491482189044848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_19
+      name: Elf Dash Forward 1000_19
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1403
-        width: 55
-        height: 89
+        x: 8579
+        y: 14129
+        width: 852
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,20 +647,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f25bde4a1fd0e9420800000000000000
-      internalID: 2638561763191010607
+      spriteID: a48e2e205c1f3e810800000000000000
+      internalID: 1793542905082865738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_20
+      name: Elf Dash Forward 1000_20
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1403
-        width: 56
-        height: 90
+        x: 11129
+        y: 14059
+        width: 662
+        height: 772
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,20 +669,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d51d0a9fb40bfb9f0800000000000000
-      internalID: -450447597356658339
+      spriteID: 1f6031cb592aae370800000000000000
+      internalID: 8352667222901196529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_21
+      name: Elf Dash Forward 1000_21
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1403
-        width: 56
-        height: 90
+        x: 13689
+        y: 14069
+        width: 682
+        height: 742
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,20 +691,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2d7e5480831338c0800000000000000
-      internalID: -4020848599614194386
+      spriteID: 96761f665565b7b00800000000000000
+      internalID: 827349881351923561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_22
+      name: Elf Dash Forward 1000_22
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1403
-        width: 56
-        height: 91
+        x: 16299
+        y: 14059
+        width: 682
+        height: 712
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -725,20 +713,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c965e7cc1c17e6060800000000000000
-      internalID: 6948616352252712604
+      spriteID: 3ac1fb7049305ec30800000000000000
+      internalID: 4387917346262424739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_23
+      name: Elf Dash Forward 1000_23
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1403
-        width: 55
-        height: 91
+        x: 18879
+        y: 14059
+        width: 672
+        height: 682
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -747,20 +735,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92d675d70a14696f0800000000000000
-      internalID: -678282536319226583
+      spriteID: 43ff683b0b550e3c0800000000000000
+      internalID: -4332368624115843276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_24
+      name: Elf Dash Forward 1000_24
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1147
-        width: 54
-        height: 92
+        x: 999
+        y: 11499
+        width: 672
+        height: 642
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,20 +757,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 158722980a8782520800000000000000
-      internalID: 2677522609362597969
+      spriteID: 029f357f0673ea8b0800000000000000
+      internalID: -5139109235177293536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_25
+      name: Elf Dash Forward 1000_25
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1148
-        width: 52
-        height: 92
+        x: 3599
+        y: 11499
+        width: 662
+        height: 632
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,20 +779,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e863a74bbc2014450800000000000000
-      internalID: 6071136846601664142
+      spriteID: edd8f8d078e5638d0800000000000000
+      internalID: -2867000178633634338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_26
+      name: Elf Dash Forward 1000_26
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1148
-        width: 52
-        height: 92
+        x: 6209
+        y: 11499
+        width: 652
+        height: 662
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -813,20 +801,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b59ec4db4a8461310800000000000000
-      internalID: 1375366608596035931
+      spriteID: 34a5a8868231f3120800000000000000
+      internalID: 2395654591057910339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_27
+      name: Elf Dash Forward 1000_27
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1148
-        width: 51
-        height: 92
+        x: 8809
+        y: 11499
+        width: 642
+        height: 682
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -835,20 +823,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7b9aae770bf6c990800000000000000
-      internalID: -7365924130909414531
+      spriteID: 3bd0218a035f1b780800000000000000
+      internalID: -8668878218384503373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_28
+      name: Elf Dash Forward 1000_28
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1148
-        width: 50
-        height: 92
+        x: 11309
+        y: 11499
+        width: 682
+        height: 642
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -857,20 +845,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a15235c9b0100390800000000000000
-      internalID: -7854259360070741591
+      spriteID: bb3a2b2d5e0be1210800000000000000
+      internalID: 1305675443112944571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_29
+      name: Elf Dash Forward 1000_29
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1148
-        width: 50
-        height: 92
+        x: 13819
+        y: 11489
+        width: 702
+        height: 652
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -879,20 +867,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 093ff3cb0f27b3660800000000000000
-      internalID: 7366607993770603408
+      spriteID: 3c6fc5a43b22a7930800000000000000
+      internalID: 4141660960762689219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_30
+      name: Elf Dash Forward 1000_30
       rect:
         serializedVersion: 2
-        x: 1903
-        y: 1149
-        width: 54
-        height: 81
+        x: 16349
+        y: 11489
+        width: 702
+        height: 692
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,20 +889,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b15fed9094df8f4f0800000000000000
-      internalID: -794606844090845925
+      spriteID: 7c513fac616acd320800000000000000
+      internalID: 2584122903028241863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_31
+      name: Elf Dash Forward 1000_31
       rect:
         serializedVersion: 2
-        x: 111
-        y: 883
-        width: 54
-        height: 89
+        x: 18899
+        y: 11489
+        width: 672
+        height: 742
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -923,20 +911,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b579215b323dcc40800000000000000
-      internalID: 5534134747454338487
+      spriteID: 964f62caa27b66f20800000000000000
+      internalID: 3415618761311843433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_32
+      name: Elf Dash Forward 1000_32
       rect:
         serializedVersion: 2
-        x: 355
-        y: 892
-        width: 72
-        height: 75
+        x: 999
+        y: 8929
+        width: 632
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -945,20 +933,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7d88f690779f10b0800000000000000
-      internalID: -5755715288931201670
+      spriteID: 29192f5f395d0a790800000000000000
+      internalID: -7520776546245504622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_33
+      name: Elf Dash Forward 1000_33
       rect:
         serializedVersion: 2
-        x: 611
-        y: 892
-        width: 72
-        height: 75
+        x: 3569
+        y: 8929
+        width: 612
+        height: 842
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -967,20 +955,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 725d42e4eff771a50800000000000000
-      internalID: 6491798118087316775
+      spriteID: 2f693e2e789df8190800000000000000
+      internalID: -7957902838889998606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_34
+      name: Elf Dash Forward 1000_34
       rect:
         serializedVersion: 2
-        x: 867
-        y: 892
-        width: 72
-        height: 75
+        x: 6129
+        y: 8929
+        width: 592
+        height: 882
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -989,20 +977,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1a76a135d98a71e0800000000000000
-      internalID: -2199293919263032801
+      spriteID: 6a308818a004ab300800000000000000
+      internalID: 268597541648991142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_35
+      name: Elf Dash Forward 1000_35
       rect:
         serializedVersion: 2
-        x: 1124
-        y: 891
-        width: 71
-        height: 77
+        x: 8699
+        y: 8929
+        width: 562
+        height: 912
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1011,20 +999,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 70e5a64ec01f94020800000000000000
-      internalID: 2326655720187649543
+      spriteID: 508e5a14872318130800000000000000
+      internalID: 3567187871932999685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_36
+      name: Elf Dash Forward 1000_36
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 892
-        width: 70
-        height: 76
+        x: 11269
+        y: 8929
+        width: 532
+        height: 942
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1033,20 +1021,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f639f04d2243bd750800000000000000
-      internalID: 6330711025390687087
+      spriteID: c2d8b446095f3e3a0800000000000000
+      internalID: -6637191425307210452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_37
+      name: Elf Dash Forward 1000_37
       rect:
         serializedVersion: 2
-        x: 1637
-        y: 892
-        width: 68
-        height: 76
+        x: 13829
+        y: 8929
+        width: 512
+        height: 972
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1055,20 +1043,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65b59b4fe0637ee10800000000000000
-      internalID: 2226807978621229910
+      spriteID: 6160f67c47d18de30800000000000000
+      internalID: 4528401812720387606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_idle_38
+      name: Elf Dash Forward 1000_38
       rect:
         serializedVersion: 2
-        x: 1893
-        y: 893
-        width: 69
-        height: 75
+        x: 16399
+        y: 8939
+        width: 482
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,96 +1065,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 528e8b714dcc97a80800000000000000
-      internalID: -8468512412990379995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_idle_39
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 636
-        width: 66
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35d594714a8348e80800000000000000
-      internalID: -8177348745981502125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_idle_40
-      rect:
-        serializedVersion: 2
-        x: 358
-        y: 635
-        width: 59
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79a9b919d557c8930800000000000000
-      internalID: 4146818401636686487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_idle_41
-      rect:
-        serializedVersion: 2
-        x: 615
-        y: 636
-        width: 50
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4582a646fef0aa160800000000000000
-      internalID: 7037454888576100436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_idle_42
-      rect:
-        serializedVersion: 2
-        x: 871
-        y: 636
-        width: 50
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f9b9950465af8520800000000000000
-      internalID: 2706563750082230775
+      spriteID: 43d6624ad230b39e0800000000000000
+      internalID: -1640714144684020428
       vertices: []
       indices: 
       edges: []
@@ -1184,50 +1084,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      elf_idle_0: -5390619591566804107
-      elf_idle_1: -5354632589088447618
-      elf_idle_10: 6846785236796024696
-      elf_idle_11: -2435042939200993104
-      elf_idle_12: 6674013678137244729
-      elf_idle_13: 5545684783969059260
-      elf_idle_14: -7531209954110648369
-      elf_idle_15: 3792920201306799347
-      elf_idle_16: 8804529453878643044
-      elf_idle_17: -1559920330736630289
-      elf_idle_18: 944739413424220482
-      elf_idle_19: 2638561763191010607
-      elf_idle_2: -4461356658669794075
-      elf_idle_20: -450447597356658339
-      elf_idle_21: -4020848599614194386
-      elf_idle_22: 6948616352252712604
-      elf_idle_23: -678282536319226583
-      elf_idle_24: 2677522609362597969
-      elf_idle_25: 6071136846601664142
-      elf_idle_26: 1375366608596035931
-      elf_idle_27: -7365924130909414531
-      elf_idle_28: -7854259360070741591
-      elf_idle_29: 7366607993770603408
-      elf_idle_3: -2471953249502029990
-      elf_idle_30: -794606844090845925
-      elf_idle_31: 5534134747454338487
-      elf_idle_32: -5755715288931201670
-      elf_idle_33: 6491798118087316775
-      elf_idle_34: -2199293919263032801
-      elf_idle_35: 2326655720187649543
-      elf_idle_36: 6330711025390687087
-      elf_idle_37: 2226807978621229910
-      elf_idle_38: -8468512412990379995
-      elf_idle_39: -8177348745981502125
-      elf_idle_4: 6179184788101449899
-      elf_idle_40: 4146818401636686487
-      elf_idle_41: 7037454888576100436
-      elf_idle_42: 2706563750082230775
-      elf_idle_5: 223288352698060092
-      elf_idle_6: -6276982093109578489
-      elf_idle_7: -4867128059509435999
-      elf_idle_8: 1818332887593264183
-      elf_idle_9: -1150206158134933265
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

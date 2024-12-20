@@ -1,94 +1,76 @@
 fileFormatVersion: 2
-guid: d98854045a027cb438586c3be69b4fd7
+guid: 47e8f38685495964da3ba5ed05771dc8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 145885272568563908
-    second: elf_walk_0
+      213: 1048081327920055946
+    second: Elf Run_0
   - first:
-      213: -7066570445600034450
-    second: elf_walk_1
+      213: -3892954206778671415
+    second: Elf Run_1
   - first:
-      213: -1668848275168783054
-    second: elf_walk_2
+      213: 8674292106491726748
+    second: Elf Run_2
   - first:
-      213: 7885043353818990963
-    second: elf_walk_3
+      213: -2245310449937312543
+    second: Elf Run_3
   - first:
-      213: -482291571312725661
-    second: elf_walk_4
+      213: -6235601280376263025
+    second: Elf Run_4
   - first:
-      213: -629791756309333937
-    second: elf_walk_5
+      213: -5643026408046936279
+    second: Elf Run_5
   - first:
-      213: -5788191787734890080
-    second: elf_walk_6
+      213: 756044760422978061
+    second: Elf Run_6
   - first:
-      213: 6216446298752603474
-    second: elf_walk_7
+      213: -5529504785583213102
+    second: Elf Run_7
   - first:
-      213: 8857824660070683482
-    second: elf_walk_8
+      213: 6891593739909137530
+    second: Elf Run_8
   - first:
-      213: -6017269664540651259
-    second: elf_walk_9
+      213: 7071152740864450407
+    second: Elf Run_9
   - first:
-      213: -7028874983002725954
-    second: elf_walk_10
+      213: -5932914903248418481
+    second: Elf Run_10
   - first:
-      213: 3754900946697236251
-    second: elf_walk_11
+      213: 8764707591856448425
+    second: Elf Run_11
   - first:
-      213: -4189503720760501326
-    second: elf_walk_12
+      213: -6331000972415181956
+    second: Elf Run_12
   - first:
-      213: -5900849843992523581
-    second: elf_walk_13
+      213: -6925277320276989630
+    second: Elf Run_13
   - first:
-      213: -4039325863211529034
-    second: elf_walk_14
+      213: -2815717908130656505
+    second: Elf Run_14
   - first:
-      213: -1504416904125484541
-    second: elf_walk_15
+      213: 8082776517879130932
+    second: Elf Run_15
   - first:
-      213: 2460956438258399914
-    second: elf_walk_16
+      213: -3595209727306306941
+    second: Elf Run_16
   - first:
-      213: 2386565900926773874
-    second: elf_walk_17
+      213: -4731930232814477725
+    second: Elf Run_17
   - first:
-      213: 1812422552761767176
-    second: elf_walk_18
+      213: -7774518382221701193
+    second: Elf Run_18
   - first:
-      213: -1754462791870209889
-    second: elf_walk_19
+      213: 7907244012778029472
+    second: Elf Run_19
   - first:
-      213: 5889394285637866202
-    second: elf_walk_20
+      213: -6352317893731183745
+    second: Elf Run_20
   - first:
-      213: 8626898403661403507
-    second: elf_walk_21
+      213: 5795584026284487131
+    second: Elf Run_21
   - first:
-      213: -318722962948052261
-    second: elf_walk_22
-  - first:
-      213: 8656117343316390341
-    second: elf_walk_23
-  - first:
-      213: -2647797605781999883
-    second: elf_walk_24
-  - first:
-      213: -7511147785884405059
-    second: elf_walk_25
-  - first:
-      213: -1460053657744945286
-    second: elf_walk_26
-  - first:
-      213: -301577680416474502
-    second: elf_walk_27
-  - first:
-      213: -7490081434531641535
-    second: elf_walk_28
+      213: 1141253698826351496
+    second: Elf Run_22
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,276 +166,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf_walk_0
+      name: Elf Run_0
       rect:
         serializedVersion: 2
-        x: 99
-        y: 1915
-        width: 55
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c80969e1e9460200800000000000000
-      internalID: 145885272568563908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_1
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 1916
-        width: 57
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e617cb9be9f7eed90800000000000000
-      internalID: -7066570445600034450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_2
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 1915
-        width: 60
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2359a8ee55f07d8e0800000000000000
-      internalID: -1668848275168783054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_3
-      rect:
-        serializedVersion: 2
-        x: 862
-        y: 1915
+        x: 100
+        y: 1917
         width: 59
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3798fee472d4d6d60800000000000000
-      internalID: 7885043353818990963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_4
-      rect:
-        serializedVersion: 2
-        x: 1119
-        y: 1916
-        width: 57
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3617db50f5e8e49f0800000000000000
-      internalID: -482291571312725661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_5
-      rect:
-        serializedVersion: 2
-        x: 1377
-        y: 1916
-        width: 55
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4876b20cb78247f0800000000000000
-      internalID: -629791756309333937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_6
-      rect:
-        serializedVersion: 2
-        x: 1634
-        y: 1916
-        width: 53
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a98a387c363cafa0800000000000000
-      internalID: -5788191787734890080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_7
-      rect:
-        serializedVersion: 2
-        x: 1891
-        y: 1916
-        width: 52
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 255d07af8f0454650800000000000000
-      internalID: 6216446298752603474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_8
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 1660
-        width: 50
-        height: 93
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a53553af8905dea70800000000000000
-      internalID: 8857824660070683482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_9
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 1660
-        width: 50
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5011257fe1d5e7ca0800000000000000
-      internalID: -6017269664540651259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_10
-      rect:
-        serializedVersion: 2
-        x: 616
-        y: 1660
-        width: 51
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb12e7b817b647e90800000000000000
-      internalID: -7028874983002725954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_11
-      rect:
-        serializedVersion: 2
-        x: 872
-        y: 1660
-        width: 50
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1faaa644861c1430800000000000000
-      internalID: 3754900946697236251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_12
-      rect:
-        serializedVersion: 2
-        x: 1128
-        y: 1660
-        width: 50
         height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -463,195 +181,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bb94ea1094ebd5c0800000000000000
-      internalID: -4189503720760501326
+      spriteID: a86056e2a688b8e00800000000000000
+      internalID: 1048081327920055946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_13
+      name: Elf Run_1
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 1661
-        width: 50
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cc08e7b458fb1ea0800000000000000
-      internalID: -5900849843992523581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_14
-      rect:
-        serializedVersion: 2
-        x: 1640
-        y: 1661
-        width: 50
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6bc8a37578e61f7c0800000000000000
-      internalID: -4039325863211529034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_15
-      rect:
-        serializedVersion: 2
-        x: 1897
-        y: 1662
-        width: 49
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 302f183ebcc3f1be0800000000000000
-      internalID: -1504416904125484541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_16
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 1406
-        width: 48
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aaa3a1687d2172220800000000000000
-      internalID: 2460956438258399914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_17
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 1406
-        width: 47
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27aecc5da09ce1120800000000000000
-      internalID: 2386565900926773874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_18
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 1406
-        width: 47
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 805954885b4072910800000000000000
-      internalID: 1812422552761767176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_19
-      rect:
-        serializedVersion: 2
-        x: 876
-        y: 1405
-        width: 46
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f90afe6e265e6a7e0800000000000000
-      internalID: -1754462791870209889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_20
-      rect:
-        serializedVersion: 2
-        x: 1132
-        y: 1404
-        width: 46
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad219a146e45bb150800000000000000
-      internalID: 5889394285637866202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_21
-      rect:
-        serializedVersion: 2
-        x: 1388
-        y: 1404
-        width: 46
+        x: 355
+        y: 1916
+        width: 67
         height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -661,19 +203,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3755f9f0466e8b770800000000000000
-      internalID: 8626898403661403507
+      spriteID: 9ce381256c279f9c0800000000000000
+      internalID: -3892954206778671415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_22
+      name: Elf Run_2
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 1405
-        width: 46
+        x: 609
+        y: 1915
+        width: 75
         height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -683,107 +225,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdaa8b3672ba39bf0800000000000000
-      internalID: -318722962948052261
+      spriteID: c9b0a6566b6416870800000000000000
+      internalID: 8674292106491726748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_23
-      rect:
-        serializedVersion: 2
-        x: 1899
-        y: 1405
-        width: 47
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c1b8769cd4b02870800000000000000
-      internalID: 8656117343316390341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_24
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 1148
-        width: 49
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5feeb3e2b12214bd0800000000000000
-      internalID: -2647797605781999883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_25
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 1148
-        width: 50
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db2f5ee62ea03c790800000000000000
-      internalID: -7511147785884405059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_26
-      rect:
-        serializedVersion: 2
-        x: 613
-        y: 1148
-        width: 52
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7f4a191fe8dcbbe0800000000000000
-      internalID: -1460053657744945286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: elf_walk_27
+      name: Elf Run_3
       rect:
         serializedVersion: 2
         x: 865
-        y: 1148
-        width: 56
+        y: 1918
+        width: 76
         height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -793,19 +247,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7af69e82b490dbf0800000000000000
-      internalID: -301577680416474502
+      spriteID: 1e4930dba0e07d0e0800000000000000
+      internalID: -2245310449937312543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_28
+      name: Elf Run_4
       rect:
         serializedVersion: 2
-        x: 1117
-        y: 1147
-        width: 60
+        x: 1122
+        y: 1920
+        width: 75
         height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -815,8 +269,404 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1474ef39e92ed0890800000000000000
-      internalID: -7490081434531641535
+      spriteID: f8ea3325ca1b679a0800000000000000
+      internalID: -6235601280376263025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1917
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb6324161ffa1b0800000000000000
+      internalID: -5643026408046936279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_6
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1917
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d029e4334b20e7a00800000000000000
+      internalID: 756044760422978061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_7
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1917
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d57d7fa1b04343b0800000000000000
+      internalID: -5529504785583213102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1662
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7407934efbd3af50800000000000000
+      internalID: 6891593739909137530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1662
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f51c704f7c12260800000000000000
+      internalID: 7071152740864450407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1663
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c145545d0aada0800000000000000
+      internalID: -5932914903248418481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1659
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3e5cc0e1f72a970800000000000000
+      internalID: 8764707591856448425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1660
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b5a8e9824c328a0800000000000000
+      internalID: -6331000972415181956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1664
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24922d908f874ef90800000000000000
+      internalID: -6925277320276989630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1665
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f8a2a1b7f8ce8d0800000000000000
+      internalID: -2815717908130656505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_15
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1665
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bed0b2b6acb2070800000000000000
+      internalID: 8082776517879130932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1407
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae0ee1dcf3b1ec0800000000000000
+      internalID: -3595209727306306941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1406
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e592b268ec45eb0800000000000000
+      internalID: -4731930232814477725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1403
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4ee7f8bc5b1490800000000000000
+      internalID: -7774518382221701193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1403
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a108f5098c2cbd60800000000000000
+      internalID: 7907244012778029472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1405
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739bcb188808d7a0800000000000000
+      internalID: -6352317893731183745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1405
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd17d9037fc0e6050800000000000000
+      internalID: 5795584026284487131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Run_22
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1406
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833525413c86df00800000000000000
+      internalID: 1141253698826351496
       vertices: []
       indices: 
       edges: []
@@ -834,36 +684,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      elf_walk_0: 145885272568563908
-      elf_walk_1: -7066570445600034450
-      elf_walk_10: -7028874983002725954
-      elf_walk_11: 3754900946697236251
-      elf_walk_12: -4189503720760501326
-      elf_walk_13: -5900849843992523581
-      elf_walk_14: -4039325863211529034
-      elf_walk_15: -1504416904125484541
-      elf_walk_16: 2460956438258399914
-      elf_walk_17: 2386565900926773874
-      elf_walk_18: 1812422552761767176
-      elf_walk_19: -1754462791870209889
-      elf_walk_2: -1668848275168783054
-      elf_walk_20: 5889394285637866202
-      elf_walk_21: 8626898403661403507
-      elf_walk_22: -318722962948052261
-      elf_walk_23: 8656117343316390341
-      elf_walk_24: -2647797605781999883
-      elf_walk_25: -7511147785884405059
-      elf_walk_26: -1460053657744945286
-      elf_walk_27: -301577680416474502
-      elf_walk_28: -7490081434531641535
-      elf_walk_3: 7885043353818990963
-      elf_walk_4: -482291571312725661
-      elf_walk_5: -629791756309333937
-      elf_walk_6: -5788191787734890080
-      elf_walk_7: 6216446298752603474
-      elf_walk_8: 8857824660070683482
-      elf_walk_9: -6017269664540651259
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,94 +1,94 @@
 fileFormatVersion: 2
-guid: d98854045a027cb438586c3be69b4fd7
+guid: aa62d5f9bcea9d04786fb06624e554fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 145885272568563908
-    second: elf_walk_0
+      213: 8699938194265920772
+    second: Elf Shuffle 1000_0
   - first:
-      213: -7066570445600034450
-    second: elf_walk_1
+      213: 2081673195511277419
+    second: Elf Shuffle 1000_1
   - first:
-      213: -1668848275168783054
-    second: elf_walk_2
+      213: 5861441226632409785
+    second: Elf Shuffle 1000_2
   - first:
-      213: 7885043353818990963
-    second: elf_walk_3
+      213: 3524070685470573372
+    second: Elf Shuffle 1000_3
   - first:
-      213: -482291571312725661
-    second: elf_walk_4
+      213: -7780032037260832229
+    second: Elf Shuffle 1000_4
   - first:
-      213: -629791756309333937
-    second: elf_walk_5
+      213: -4216965791960410912
+    second: Elf Shuffle 1000_5
   - first:
-      213: -5788191787734890080
-    second: elf_walk_6
+      213: -2694036866903835670
+    second: Elf Shuffle 1000_6
   - first:
-      213: 6216446298752603474
-    second: elf_walk_7
+      213: -4703555078397698306
+    second: Elf Shuffle 1000_7
   - first:
-      213: 8857824660070683482
-    second: elf_walk_8
+      213: 5335341176307541100
+    second: Elf Shuffle 1000_8
   - first:
-      213: -6017269664540651259
-    second: elf_walk_9
+      213: 5034610768175274992
+    second: Elf Shuffle 1000_9
   - first:
-      213: -7028874983002725954
-    second: elf_walk_10
+      213: 6550649995108956008
+    second: Elf Shuffle 1000_10
   - first:
-      213: 3754900946697236251
-    second: elf_walk_11
+      213: -1476600290502244863
+    second: Elf Shuffle 1000_11
   - first:
-      213: -4189503720760501326
-    second: elf_walk_12
+      213: 6668135627766748470
+    second: Elf Shuffle 1000_12
   - first:
-      213: -5900849843992523581
-    second: elf_walk_13
+      213: -6825450221622293329
+    second: Elf Shuffle 1000_13
   - first:
-      213: -4039325863211529034
-    second: elf_walk_14
+      213: -8849323885311896609
+    second: Elf Shuffle 1000_14
   - first:
-      213: -1504416904125484541
-    second: elf_walk_15
+      213: 8967333009103496752
+    second: Elf Shuffle 1000_15
   - first:
-      213: 2460956438258399914
-    second: elf_walk_16
+      213: -141724798352646011
+    second: Elf Shuffle 1000_16
   - first:
-      213: 2386565900926773874
-    second: elf_walk_17
+      213: 4319143744811786910
+    second: Elf Shuffle 1000_17
   - first:
-      213: 1812422552761767176
-    second: elf_walk_18
+      213: 5859494937008861473
+    second: Elf Shuffle 1000_18
   - first:
-      213: -1754462791870209889
-    second: elf_walk_19
+      213: -3905224624008422584
+    second: Elf Shuffle 1000_19
   - first:
-      213: 5889394285637866202
-    second: elf_walk_20
+      213: -6599701951914933085
+    second: Elf Shuffle 1000_20
   - first:
-      213: 8626898403661403507
-    second: elf_walk_21
+      213: 4233812063875644380
+    second: Elf Shuffle 1000_21
   - first:
-      213: -318722962948052261
-    second: elf_walk_22
+      213: 2765610731692320052
+    second: Elf Shuffle 1000_22
   - first:
-      213: 8656117343316390341
-    second: elf_walk_23
+      213: 5869789488981998131
+    second: Elf Shuffle 1000_23
   - first:
-      213: -2647797605781999883
-    second: elf_walk_24
+      213: 4061762085888163006
+    second: Elf Shuffle 1000_24
   - first:
-      213: -7511147785884405059
-    second: elf_walk_25
+      213: -3516415609139666367
+    second: Elf Shuffle 1000_25
   - first:
-      213: -1460053657744945286
-    second: elf_walk_26
+      213: -2080627504397555687
+    second: Elf Shuffle 1000_26
   - first:
-      213: -301577680416474502
-    second: elf_walk_27
+      213: -6129579803431923290
+    second: Elf Shuffle 1000_27
   - first:
-      213: -7490081434531641535
-    second: elf_walk_28
+      213: 1894910174749615883
+    second: Elf Shuffle 1000_28
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: elf_walk_0
+      name: Elf Shuffle 1000_0
       rect:
         serializedVersion: 2
-        x: 99
-        y: 1915
-        width: 55
-        height: 92
+        x: 1039
+        y: 19169
+        width: 492
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c80969e1e9460200800000000000000
-      internalID: 145885272568563908
+      spriteID: 405d21581b36cb870800000000000000
+      internalID: 8699938194265920772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_1
+      name: Elf Shuffle 1000_1
       rect:
         serializedVersion: 2
-        x: 352
-        y: 1916
-        width: 57
-        height: 92
+        x: 3579
+        y: 19169
+        width: 502
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e617cb9be9f7eed90800000000000000
-      internalID: -7066570445600034450
+      spriteID: b67e6ecfdb693ec10800000000000000
+      internalID: 2081673195511277419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_2
+      name: Elf Shuffle 1000_2
       rect:
         serializedVersion: 2
-        x: 605
-        y: 1915
-        width: 60
-        height: 93
+        x: 6119
+        y: 19169
+        width: 522
+        height: 992
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2359a8ee55f07d8e0800000000000000
-      internalID: -1668848275168783054
+      spriteID: 9b231498db5085150800000000000000
+      internalID: 5861441226632409785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_3
+      name: Elf Shuffle 1000_3
       rect:
         serializedVersion: 2
-        x: 862
-        y: 1915
-        width: 59
-        height: 93
+        x: 8689
+        y: 19169
+        width: 512
+        height: 992
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3798fee472d4d6d60800000000000000
-      internalID: 7885043353818990963
+      spriteID: c3347dafd9308e030800000000000000
+      internalID: 3524070685470573372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_4
+      name: Elf Shuffle 1000_4
       rect:
         serializedVersion: 2
-        x: 1119
-        y: 1916
-        width: 57
-        height: 92
+        x: 11269
+        y: 19169
+        width: 482
+        height: 992
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3617db50f5e8e49f0800000000000000
-      internalID: -482291571312725661
+      spriteID: b12d8ed1516c70490800000000000000
+      internalID: -7780032037260832229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_5
+      name: Elf Shuffle 1000_5
       rect:
         serializedVersion: 2
-        x: 1377
-        y: 1916
-        width: 55
-        height: 92
+        x: 13839
+        y: 19159
+        width: 472
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4876b20cb78247f0800000000000000
-      internalID: -629791756309333937
+      spriteID: 0e4d93464f35a75c0800000000000000
+      internalID: -4216965791960410912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_6
+      name: Elf Shuffle 1000_6
       rect:
         serializedVersion: 2
-        x: 1634
-        y: 1916
-        width: 53
-        height: 92
+        x: 16399
+        y: 19159
+        width: 462
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a98a387c363cafa0800000000000000
-      internalID: -5788191787734890080
+      spriteID: aebf3604ebbdc9ad0800000000000000
+      internalID: -2694036866903835670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_7
+      name: Elf Shuffle 1000_7
       rect:
         serializedVersion: 2
-        x: 1891
-        y: 1916
-        width: 52
-        height: 93
+        x: 18959
+        y: 19159
+        width: 462
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 255d07af8f0454650800000000000000
-      internalID: 6216446298752603474
+      spriteID: efede92a39d99beb0800000000000000
+      internalID: -4703555078397698306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_8
+      name: Elf Shuffle 1000_8
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1660
-        width: 50
-        height: 93
+        x: 1039
+        y: 16599
+        width: 472
+        height: 1012
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,20 +375,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a53553af8905dea70800000000000000
-      internalID: 8857824660070683482
+      spriteID: c6463513880fa0a40800000000000000
+      internalID: 5335341176307541100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_9
+      name: Elf Shuffle 1000_9
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1660
-        width: 50
-        height: 94
+        x: 3599
+        y: 16609
+        width: 482
+        height: 1012
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5011257fe1d5e7ca0800000000000000
-      internalID: -6017269664540651259
+      spriteID: 0fb9173b1d78ed540800000000000000
+      internalID: 5034610768175274992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_10
+      name: Elf Shuffle 1000_10
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1660
-        width: 51
-        height: 95
+        x: 6169
+        y: 16609
+        width: 492
+        height: 1022
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,20 +419,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb12e7b817b647e90800000000000000
-      internalID: -7028874983002725954
+      spriteID: 8673266b67598ea50800000000000000
+      internalID: 6550649995108956008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_11
+      name: Elf Shuffle 1000_11
       rect:
         serializedVersion: 2
-        x: 872
-        y: 1660
-        width: 50
-        height: 96
+        x: 8729
+        y: 16619
+        width: 482
+        height: 1022
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +441,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1faaa644861c1430800000000000000
-      internalID: 3754900946697236251
+      spriteID: 1060061fbdf028be0800000000000000
+      internalID: -1476600290502244863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_12
+      name: Elf Shuffle 1000_12
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 1660
-        width: 50
-        height: 97
+        x: 11289
+        y: 16619
+        width: 482
+        height: 1022
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,20 +463,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bb94ea1094ebd5c0800000000000000
-      internalID: -4189503720760501326
+      spriteID: 635d92f260af98c50800000000000000
+      internalID: 6668135627766748470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_13
+      name: Elf Shuffle 1000_13
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 1661
-        width: 50
-        height: 96
+        x: 13849
+        y: 16619
+        width: 482
+        height: 1032
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,20 +485,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cc08e7b458fb1ea0800000000000000
-      internalID: -5900849843992523581
+      spriteID: fac871caf212741a0800000000000000
+      internalID: -6825450221622293329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_14
+      name: Elf Shuffle 1000_14
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 1661
-        width: 50
-        height: 97
+        x: 16409
+        y: 16629
+        width: 482
+        height: 1032
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,20 +507,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bc8a37578e61f7c0800000000000000
-      internalID: -4039325863211529034
+      spriteID: fd3da91efc2e03580800000000000000
+      internalID: -8849323885311896609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_15
+      name: Elf Shuffle 1000_15
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 1662
-        width: 49
-        height: 96
+        x: 18979
+        y: 16639
+        width: 472
+        height: 1022
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,20 +529,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 302f183ebcc3f1be0800000000000000
-      internalID: -1504416904125484541
+      spriteID: 036af3e5cdd527c70800000000000000
+      internalID: 8967333009103496752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_16
+      name: Elf Shuffle 1000_16
       rect:
         serializedVersion: 2
-        x: 106
-        y: 1406
-        width: 48
-        height: 96
+        x: 1069
+        y: 14099
+        width: 462
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +551,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aaa3a1687d2172220800000000000000
-      internalID: 2460956438258399914
+      spriteID: 580a35afb0e780ef0800000000000000
+      internalID: -141724798352646011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_17
+      name: Elf Shuffle 1000_17
       rect:
         serializedVersion: 2
-        x: 363
-        y: 1406
-        width: 47
-        height: 96
+        x: 3629
+        y: 14099
+        width: 482
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +573,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27aecc5da09ce1120800000000000000
-      internalID: 2386565900926773874
+      spriteID: e926b532a5ea0fb30800000000000000
+      internalID: 4319143744811786910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_18
+      name: Elf Shuffle 1000_18
       rect:
         serializedVersion: 2
-        x: 620
-        y: 1406
-        width: 47
-        height: 96
+        x: 6199
+        y: 14089
+        width: 472
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,20 +595,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 805954885b4072910800000000000000
-      internalID: 1812422552761767176
+      spriteID: 121fc9ba99b115150800000000000000
+      internalID: 5859494937008861473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_19
+      name: Elf Shuffle 1000_19
       rect:
         serializedVersion: 2
-        x: 876
-        y: 1405
-        width: 46
-        height: 96
+        x: 8759
+        y: 14079
+        width: 462
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,20 +617,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f90afe6e265e6a7e0800000000000000
-      internalID: -1754462791870209889
+      spriteID: 84b9edd25eaddc9c0800000000000000
+      internalID: -3905224624008422584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_20
+      name: Elf Shuffle 1000_20
       rect:
         serializedVersion: 2
-        x: 1132
-        y: 1404
-        width: 46
-        height: 96
+        x: 11319
+        y: 14069
+        width: 462
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,20 +639,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad219a146e45bb150800000000000000
-      internalID: 5889394285637866202
+      spriteID: 3a488ac9a062964a0800000000000000
+      internalID: -6599701951914933085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_21
+      name: Elf Shuffle 1000_21
       rect:
         serializedVersion: 2
-        x: 1388
-        y: 1404
-        width: 46
-        height: 94
+        x: 13879
+        y: 14059
+        width: 452
+        height: 1002
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,20 +661,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3755f9f0466e8b770800000000000000
-      internalID: 8626898403661403507
+      spriteID: cdb3211f3a581ca30800000000000000
+      internalID: 4233812063875644380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_22
+      name: Elf Shuffle 1000_22
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 1405
-        width: 46
-        height: 91
+        x: 16439
+        y: 14059
+        width: 452
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -683,20 +683,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdaa8b3672ba39bf0800000000000000
-      internalID: -318722962948052261
+      spriteID: 4356781ce4c616620800000000000000
+      internalID: 2765610731692320052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_23
+      name: Elf Shuffle 1000_23
       rect:
         serializedVersion: 2
-        x: 1899
-        y: 1405
-        width: 47
-        height: 91
+        x: 18989
+        y: 14059
+        width: 462
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,20 +705,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c1b8769cd4b02870800000000000000
-      internalID: 8656117343316390341
+      spriteID: 33af715d07ea57150800000000000000
+      internalID: 5869789488981998131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_24
+      name: Elf Shuffle 1000_24
       rect:
         serializedVersion: 2
-        x: 105
-        y: 1148
-        width: 49
-        height: 92
+        x: 1069
+        y: 11499
+        width: 462
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +727,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5feeb3e2b12214bd0800000000000000
-      internalID: -2647797605781999883
+      spriteID: ebc7383d8174e5830800000000000000
+      internalID: 4061762085888163006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_25
+      name: Elf Shuffle 1000_25
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1148
-        width: 50
-        height: 92
+        x: 3619
+        y: 11499
+        width: 462
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +749,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db2f5ee62ea03c790800000000000000
-      internalID: -7511147785884405059
+      spriteID: 142679e52ae233fc0800000000000000
+      internalID: -3516415609139666367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_26
+      name: Elf Shuffle 1000_26
       rect:
         serializedVersion: 2
-        x: 613
-        y: 1148
-        width: 52
-        height: 92
+        x: 6159
+        y: 11499
+        width: 482
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,20 +771,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7f4a191fe8dcbbe0800000000000000
-      internalID: -1460053657744945286
+      spriteID: 918e972fe402023e0800000000000000
+      internalID: -2080627504397555687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_27
+      name: Elf Shuffle 1000_27
       rect:
         serializedVersion: 2
-        x: 865
-        y: 1148
-        width: 56
-        height: 92
+        x: 8699
+        y: 11499
+        width: 502
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -793,20 +793,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7af69e82b490dbf0800000000000000
-      internalID: -301577680416474502
+      spriteID: 6a1180a05ab5feaa0800000000000000
+      internalID: -6129579803431923290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elf_walk_28
+      name: Elf Shuffle 1000_28
       rect:
         serializedVersion: 2
-        x: 1117
-        y: 1147
-        width: 60
-        height: 93
+        x: 11239
+        y: 11489
+        width: 522
+        height: 992
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -815,8 +815,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1474ef39e92ed0890800000000000000
-      internalID: -7490081434531641535
+      spriteID: b076937a3c21c4a10800000000000000
+      internalID: 1894910174749615883
       vertices: []
       indices: 
       edges: []
@@ -834,36 +834,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      elf_walk_0: 145885272568563908
-      elf_walk_1: -7066570445600034450
-      elf_walk_10: -7028874983002725954
-      elf_walk_11: 3754900946697236251
-      elf_walk_12: -4189503720760501326
-      elf_walk_13: -5900849843992523581
-      elf_walk_14: -4039325863211529034
-      elf_walk_15: -1504416904125484541
-      elf_walk_16: 2460956438258399914
-      elf_walk_17: 2386565900926773874
-      elf_walk_18: 1812422552761767176
-      elf_walk_19: -1754462791870209889
-      elf_walk_2: -1668848275168783054
-      elf_walk_20: 5889394285637866202
-      elf_walk_21: 8626898403661403507
-      elf_walk_22: -318722962948052261
-      elf_walk_23: 8656117343316390341
-      elf_walk_24: -2647797605781999883
-      elf_walk_25: -7511147785884405059
-      elf_walk_26: -1460053657744945286
-      elf_walk_27: -301577680416474502
-      elf_walk_28: -7490081434531641535
-      elf_walk_3: 7885043353818990963
-      elf_walk_4: -482291571312725661
-      elf_walk_5: -629791756309333937
-      elf_walk_6: -5788191787734890080
-      elf_walk_7: 6216446298752603474
-      elf_walk_8: 8857824660070683482
-      elf_walk_9: -6017269664540651259
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
