@@ -9,6 +9,9 @@ public class MovePlayer : MonoBehaviour
     bool facingRight;
     bool isAttack;
     bool isDash;
+    float counter = 0;
+    bool comboPressed;
+    bool comboPressed1;
 
     Animator anim;
     private void Awake()
@@ -22,7 +25,7 @@ public class MovePlayer : MonoBehaviour
         verticalInput = Input.GetAxis("Vertical");
 
         anim.SetFloat("Speed", Mathf.Abs(horizontalInput != 0 ? horizontalInput : verticalInput));
-        if (Input.GetKeyDown(KeyCode.J))
+        if (Input.GetKeyDown(KeyCode.J) && !isAttack)
         {
             isAttack = true;
             anim.SetTrigger("isJab");
@@ -36,7 +39,7 @@ public class MovePlayer : MonoBehaviour
         }
         else if (Input.GetKeyUp(KeyCode.Space)) isDash = false;
 
-        if (Input.GetKeyDown(KeyCode.K))
+        if (Input.GetKeyDown(KeyCode.K) && !isAttack)
         {
             isAttack = true;
             anim.SetTrigger("isKICK");
@@ -58,6 +61,45 @@ public class MovePlayer : MonoBehaviour
         }
         else anim.SetBool("isShuffle", false);
 
+        detectCombo();
+    }
+
+    private void detectCombo()
+    {
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            comboPressed = true;
+            if (Input.GetKeyDown(KeyCode.J) && counter < 0.5f)
+            {
+                if (Input.GetKeyDown(KeyCode.K) && counter < 0.5f)
+                {
+                    anim.SetTrigger("isCombo");
+                }
+            }
+            else counter = 0;
+            
+        }
+        if (comboPressed)
+        {
+            counter += Time.deltaTime;
+            if (Input.GetKeyDown(KeyCode.J) && counter < 0.5f)
+            {
+                comboPressed1 = true;
+            }
+            if (counter > 0.5f)
+            {
+                counter = 0;
+                comboPressed = false;
+                comboPressed1 = false;
+            }
+            if (comboPressed1)
+            {
+                if (Input.GetKeyDown(KeyCode.K) && counter < 0.5f)
+                {
+                    anim.SetTrigger("isCombo");
+                }
+            }
+        }
     }
 
     
