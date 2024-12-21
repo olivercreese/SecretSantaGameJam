@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2915629321710984126}
   - component: {fileID: 5691042699675682849}
   - component: {fileID: 5258429753933698698}
-  - component: {fileID: 3195328687541792233}
+  - component: {fileID: 1533137374666600836}
   - component: {fileID: 353522033909601338}
   m_Layer: 0
   m_Name: Snowman
@@ -112,7 +112,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &3195328687541792233
+--- !u!114 &1533137374666600836
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,10 +121,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1819133251709553916}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc492a6e81d4cdc4cb1cb1e69556b649, type: 3}
+  m_Script: {fileID: 11500000, guid: ed7e0e531dd6628448da82c6eb6f12e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 5
+  maxHealth: 3
+  speed: 1
+  atkRange: 6
+  minDist: 1
 --- !u!61 &353522033909601338
 BoxCollider2D:
   m_ObjectHideFlags: 0

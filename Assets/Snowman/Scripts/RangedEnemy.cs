@@ -20,23 +20,24 @@ public class RangedEnemy : Enemy
     protected override void Update()
     {
         base.Update();
-        Move(playerPos);
+        Move();
     }
 
-    protected override void Move(Vector2 target)
+    protected override void Move()
     {
         float dist = (playerPos - (Vector2)transform.position).magnitude;
+        transform.position = Vector2.MoveTowards(transform.position, new Vector2(transform.position.x, playerPos.y), speed * Time.deltaTime);
         if (isRetreating(dist) || dist > atkRange)
         {
             switch (spriteRender.flipX)
             {
                 // Facing Right
                 case true:
-                    transform.position = Vector2.MoveTowards(transform.position, target - new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    transform.position = Vector2.MoveTowards(transform.position, playerPos - new Vector2(atkRange, 0), speed * Time.deltaTime);
                     break;
                 // Facing Left
                 case false:
-                    transform.position = Vector2.MoveTowards(transform.position, target + new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    transform.position = Vector2.MoveTowards(transform.position, playerPos + new Vector2(atkRange, 0), speed * Time.deltaTime);
                     break;
             }
         }        

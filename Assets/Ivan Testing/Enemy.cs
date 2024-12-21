@@ -28,7 +28,7 @@ public class Enemy : Entity
     }
     protected void FacePlayer()
     {
-        if(transform.position.x < playerPos.x)
+        if (transform.position.x < playerPos.x)
         {
             spriteRender.flipX = true;
         }
@@ -38,7 +38,7 @@ public class Enemy : Entity
         }
     }
 
-    protected virtual void Move(Vector2 target)
+    protected virtual void Move()
     {
         FacePlayer();
         float dist = (playerPos - (Vector2)transform.position).magnitude;
@@ -48,11 +48,11 @@ public class Enemy : Entity
             {
                 // Facing Right
                 case true:
-                    transform.position = Vector2.MoveTowards(transform.position, target - new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    transform.position = Vector2.MoveTowards(transform.position, playerPos - new Vector2(atkRange, 0), speed * Time.deltaTime);
                     break;
                 // Facing Left
                 case false:
-                    transform.position = Vector2.MoveTowards(transform.position, target + new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    transform.position = Vector2.MoveTowards(transform.position, playerPos + new Vector2(atkRange, 0), speed * Time.deltaTime);
                     break;
             }
         }

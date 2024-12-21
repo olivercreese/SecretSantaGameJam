@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: ed889963827bba34abaccc04ec42e1ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6450307901401198114
+    second: Elf Dash Kick 1000_0
+  - first:
+      213: 610029295545425523
+    second: Elf Dash Kick 1000_1
+  - first:
+      213: 209617359403053198
+    second: Elf Dash Kick 1000_2
+  - first:
+      213: -3228117852033462142
+    second: Elf Dash Kick 1000_3
+  - first:
+      213: -9165398547632896095
+    second: Elf Dash Kick 1000_4
+  - first:
+      213: 5406403210928336658
+    second: Elf Dash Kick 1000_5
+  - first:
+      213: 4042941862256704974
+    second: Elf Dash Kick 1000_6
+  - first:
+      213: 6896077084872374596
+    second: Elf Dash Kick 1000_7
+  - first:
+      213: -8429743425545140304
+    second: Elf Dash Kick 1000_8
+  - first:
+      213: -1263969564301906524
+    second: Elf Dash Kick 1000_9
+  - first:
+      213: 3429813071188874382
+    second: Elf Dash Kick 1000_10
+  - first:
+      213: 7692611896762202760
+    second: Elf Dash Kick 1000_11
+  - first:
+      213: -904880602490498128
+    second: Elf Dash Kick 1000_12
+  - first:
+      213: -763984008253973103
+    second: Elf Dash Kick 1000_13
+  - first:
+      213: -7372249772623854966
+    second: Elf Dash Kick 1000_14
+  - first:
+      213: 5358447068498391980
+    second: Elf Dash Kick 1000_15
+  - first:
+      213: -4209165027284043442
+    second: Elf Dash Kick 1000_16
+  - first:
+      213: -7487103278268039781
+    second: Elf Dash Kick 1000_17
+  - first:
+      213: -4627660103046446514
+    second: Elf Dash Kick 1000_18
+  - first:
+      213: -8161749366684064085
+    second: Elf Dash Kick 1000_19
+  - first:
+      213: 4102471277227382081
+    second: Elf Dash Kick 1000_20
+  - first:
+      213: 2362559159241907460
+    second: Elf Dash Kick 1000_21
+  - first:
+      213: 6291030692410590747
+    second: Elf Dash Kick 1000_22
+  - first:
+      213: -7424380862507510781
+    second: Elf Dash Kick 1000_23
+  - first:
+      213: -1515939446424284511
+    second: Elf Dash Kick 1000_24
+  - first:
+      213: -751348631009527461
+    second: Elf Dash Kick 1000_25
+  - first:
+      213: -4338422179292444384
+    second: Elf Dash Kick 1000_26
+  - first:
+      213: -6523247844716205462
+    second: Elf Dash Kick 1000_27
+  - first:
+      213: 1550190036678045932
+    second: Elf Dash Kick 1000_28
+  - first:
+      213: -4798223687399468473
+    second: Elf Dash Kick 1000_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_0
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 19189
+        width: 452
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1161d8327eb76a0800000000000000
+      internalID: -6450307901401198114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_1
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 19239
+        width: 422
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e11978962477800800000000000000
+      internalID: 610029295545425523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_2
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 19299
+        width: 472
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8079f5b0e5b8e200800000000000000
+      internalID: 209617359403053198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_3
+      rect:
+        serializedVersion: 2
+        x: 8629
+        y: 19499
+        width: 472
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280d278baeb6333d0800000000000000
+      internalID: -3228117852033462142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_4
+      rect:
+        serializedVersion: 2
+        x: 11209
+        y: 19379
+        width: 462
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c57fc496fdc080800000000000000
+      internalID: -9165398547632896095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_5
+      rect:
+        serializedVersion: 2
+        x: 13769
+        y: 19379
+        width: 612
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f2ae37317670b40800000000000000
+      internalID: 5406403210928336658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_6
+      rect:
+        serializedVersion: 2
+        x: 16249
+        y: 19329
+        width: 922
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfd5b043a6b1830800000000000000
+      internalID: 4042941862256704974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_7
+      rect:
+        serializedVersion: 2
+        x: 18899
+        y: 19309
+        width: 692
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449778b5299c3bf50800000000000000
+      internalID: 6896077084872374596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 16729
+        width: 342
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b782b46409830b80800000000000000
+      internalID: -8429743425545140304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_9
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 16709
+        width: 442
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad21e8c06a757ee0800000000000000
+      internalID: -1263969564301906524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_10
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 16699
+        width: 542
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84543af0d4299f20800000000000000
+      internalID: 3429813071188874382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_11
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 16689
+        width: 632
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a747d43c5a1ca60800000000000000
+      internalID: 7692611896762202760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_12
+      rect:
+        serializedVersion: 2
+        x: 11179
+        y: 16679
+        width: 712
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39964e2e73173f0800000000000000
+      internalID: -904880602490498128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_13
+      rect:
+        serializedVersion: 2
+        x: 13709
+        y: 16669
+        width: 752
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d51fd9798c565f0800000000000000
+      internalID: -763984008253973103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_14
+      rect:
+        serializedVersion: 2
+        x: 16249
+        y: 16659
+        width: 782
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820d4344e180b990800000000000000
+      internalID: -7372249772623854966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_15
+      rect:
+        serializedVersion: 2
+        x: 18869
+        y: 16659
+        width: 672
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca37491f7370d5a40800000000000000
+      internalID: 5358447068498391980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 14069
+        width: 542
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49bcb375ba0695c0800000000000000
+      internalID: -4209165027284043442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_17
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 14059
+        width: 462
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dbb2e9c37781890800000000000000
+      internalID: -7487103278268039781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_18
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 14049
+        width: 482
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424ba897af37cfb0800000000000000
+      internalID: -4627660103046446514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_19
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 14059
+        width: 492
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e60d9134abbe80800000000000000
+      internalID: -8161749366684064085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_20
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 14059
+        width: 532
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145916c04e7eee830800000000000000
+      internalID: 4102471277227382081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_21
+      rect:
+        serializedVersion: 2
+        x: 13859
+        y: 14059
+        width: 552
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d9577b90f79c020800000000000000
+      internalID: 2362559159241907460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_22
+      rect:
+        serializedVersion: 2
+        x: 19059
+        y: 14079
+        width: 472
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16863c551b3e4750800000000000000
+      internalID: 6291030692410590747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_23
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 11509
+        width: 472
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304180d01fc47f890800000000000000
+      internalID: -7424380862507510781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_24
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 11499
+        width: 482
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2d0e2fa1d46fae0800000000000000
+      internalID: -1515939446424284511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_25
+      rect:
+        serializedVersion: 2
+        x: 6229
+        y: 11499
+        width: 492
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597332a66ca295f0800000000000000
+      internalID: -751348631009527461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_26
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 11499
+        width: 502
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029099d8304dac3c0800000000000000
+      internalID: -4338422179292444384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_27
+      rect:
+        serializedVersion: 2
+        x: 11299
+        y: 11499
+        width: 512
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aabd995a4c875a0800000000000000
+      internalID: -6523247844716205462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_28
+      rect:
+        serializedVersion: 2
+        x: 13849
+        y: 11499
+        width: 492
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07b8600a1638510800000000000000
+      internalID: 1550190036678045932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Dash Kick 1000_29
+      rect:
+        serializedVersion: 2
+        x: 16399
+        y: 11499
+        width: 482
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74290b77af8496db0800000000000000
+      internalID: -4798223687399468473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf Dash Kick 1000_0: -6450307901401198114
+      Elf Dash Kick 1000_1: 610029295545425523
+      Elf Dash Kick 1000_10: 3429813071188874382
+      Elf Dash Kick 1000_11: 7692611896762202760
+      Elf Dash Kick 1000_12: -904880602490498128
+      Elf Dash Kick 1000_13: -763984008253973103
+      Elf Dash Kick 1000_14: -7372249772623854966
+      Elf Dash Kick 1000_15: 5358447068498391980
+      Elf Dash Kick 1000_16: -4209165027284043442
+      Elf Dash Kick 1000_17: -7487103278268039781
+      Elf Dash Kick 1000_18: -4627660103046446514
+      Elf Dash Kick 1000_19: -8161749366684064085
+      Elf Dash Kick 1000_2: 209617359403053198
+      Elf Dash Kick 1000_20: 4102471277227382081
+      Elf Dash Kick 1000_21: 2362559159241907460
+      Elf Dash Kick 1000_22: 6291030692410590747
+      Elf Dash Kick 1000_23: -7424380862507510781
+      Elf Dash Kick 1000_24: -1515939446424284511
+      Elf Dash Kick 1000_25: -751348631009527461
+      Elf Dash Kick 1000_26: -4338422179292444384
+      Elf Dash Kick 1000_27: -6523247844716205462
+      Elf Dash Kick 1000_28: 1550190036678045932
+      Elf Dash Kick 1000_29: -4798223687399468473
+      Elf Dash Kick 1000_3: -3228117852033462142
+      Elf Dash Kick 1000_4: -9165398547632896095
+      Elf Dash Kick 1000_5: 5406403210928336658
+      Elf Dash Kick 1000_6: 4042941862256704974
+      Elf Dash Kick 1000_7: 6896077084872374596
+      Elf Dash Kick 1000_8: -8429743425545140304
+      Elf Dash Kick 1000_9: -1263969564301906524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
