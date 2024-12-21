@@ -12,11 +12,16 @@ public class MovePlayer : MonoBehaviour
     float counter = 0;
     bool comboPressed;
     bool comboPressed1;
+    GameObject audio1;
+    AudioManager audioManager1;
+
 
     Animator anim;
     private void Awake()
     {
         anim = GetComponent<Animator>();
+        audio1 = GameObject.Find("AudioManager");
+        audioManager1 = audio1.GetComponent<AudioManager>();
     }
     // Update is called once per frame
     void Update()
@@ -30,6 +35,7 @@ public class MovePlayer : MonoBehaviour
             isAttack = true;
             comboPressed = true;
             anim.SetTrigger("isJab");
+            audioManager1.PlayPunch();
         }
 
     
@@ -45,6 +51,7 @@ public class MovePlayer : MonoBehaviour
         {
             isAttack = true;
             anim.SetTrigger("isKICK");
+            audioManager1.PlayKick();
         }
         
         
