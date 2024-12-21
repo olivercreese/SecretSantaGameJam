@@ -21,7 +21,7 @@ public class MovePlayer : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         audio1 = GameObject.Find("AudioManager");
-        audioManager1 = audio1.GetComponent<AudioManager>();
+        if (audio1 != null) audioManager1 = audio1.GetComponent<AudioManager>();
     }
     // Update is called once per frame
     void Update()

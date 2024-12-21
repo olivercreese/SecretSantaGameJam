@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5258429753933698698}
   - component: {fileID: 1533137374666600836}
   - component: {fileID: 353522033909601338}
-  - component: {fileID: 922815534457713741}
   m_Layer: 0
   m_Name: Snowman
   m_TagString: Untagged
@@ -128,8 +127,8 @@ MonoBehaviour:
   maxHealth: 3
   speed: 1
   atkRange: 6
-  atkSpeed: 0
-  projectile: {fileID: 0}
+  atkCooldown: 5
+  projectile: {fileID: 356256165666784215, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
   minDist: 1
 --- !u!61 &353522033909601338
 BoxCollider2D:
@@ -177,21 +176,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.59, y: 0.6907134}
   m_EdgeRadius: 0
---- !u!114 &922815534457713741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1819133251709553916}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed7e0e531dd6628448da82c6eb6f12e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxHealth: 3
-  speed: 1
-  atkRange: 3
-  atkSpeed: 0
-  projectile: {fileID: 0}
-  minDist: 1
