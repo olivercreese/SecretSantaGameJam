@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 13ee514a4979f77418e95b9523b8aa73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2720649173640525105
+    second: Elf Side Strong 1000_0
+  - first:
+      213: -6743210753535539635
+    second: Elf Side Strong 1000_1
+  - first:
+      213: 5311223724020772413
+    second: Elf Side Strong 1000_2
+  - first:
+      213: 7759366540720208875
+    second: Elf Side Strong 1000_3
+  - first:
+      213: 2122747206288757611
+    second: Elf Side Strong 1000_4
+  - first:
+      213: -7440348168072437100
+    second: Elf Side Strong 1000_5
+  - first:
+      213: 8211942449908414781
+    second: Elf Side Strong 1000_6
+  - first:
+      213: -3467437821457806033
+    second: Elf Side Strong 1000_7
+  - first:
+      213: 1073623410161929771
+    second: Elf Side Strong 1000_8
+  - first:
+      213: 4376083331314367751
+    second: Elf Side Strong 1000_9
+  - first:
+      213: -236911114264964775
+    second: Elf Side Strong 1000_10
+  - first:
+      213: -748582689979962288
+    second: Elf Side Strong 1000_11
+  - first:
+      213: 4975124933934865028
+    second: Elf Side Strong 1000_12
+  - first:
+      213: -4760448158832996062
+    second: Elf Side Strong 1000_13
+  - first:
+      213: 703849661233883694
+    second: Elf Side Strong 1000_14
+  - first:
+      213: 4130489945106514540
+    second: Elf Side Strong 1000_15
+  - first:
+      213: -4310468731858595745
+    second: Elf Side Strong 1000_16
+  - first:
+      213: -4978876118050333620
+    second: Elf Side Strong 1000_17
+  - first:
+      213: 558183398920793567
+    second: Elf Side Strong 1000_18
+  - first:
+      213: 4707097443239384777
+    second: Elf Side Strong 1000_19
+  - first:
+      213: -692868369890140337
+    second: Elf Side Strong 1000_20
+  - first:
+      213: 4570394295447311755
+    second: Elf Side Strong 1000_21
+  - first:
+      213: 7537130700975667288
+    second: Elf Side Strong 1000_22
+  - first:
+      213: 6010905388271190455
+    second: Elf Side Strong 1000_23
+  - first:
+      213: 8838529001065941557
+    second: Elf Side Strong 1000_24
+  - first:
+      213: -1368876432615751826
+    second: Elf Side Strong 1000_25
+  - first:
+      213: -4591748751773787862
+    second: Elf Side Strong 1000_26
+  - first:
+      213: -3315240239441490827
+    second: Elf Side Strong 1000_27
+  - first:
+      213: 8542289757721078352
+    second: Elf Side Strong 1000_28
+  - first:
+      213: 1277624910433844415
+    second: Elf Side Strong 1000_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_0
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 19169
+        width: 452
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca42bebdff4e3ad0800000000000000
+      internalID: -2720649173640525105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_1
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 19179
+        width: 442
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d468be5fb8d4b62a0800000000000000
+      internalID: -6743210753535539635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_2
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 19179
+        width: 452
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea2e046d145b940800000000000000
+      internalID: 5311223724020772413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_3
+      rect:
+        serializedVersion: 2
+        x: 8499
+        y: 19179
+        width: 462
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebfda502ceceab60800000000000000
+      internalID: 7759366540720208875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_4
+      rect:
+        serializedVersion: 2
+        x: 11079
+        y: 19189
+        width: 442
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635bca5653857d10800000000000000
+      internalID: 2122747206288757611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_5
+      rect:
+        serializedVersion: 2
+        x: 13649
+        y: 19189
+        width: 422
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49260d403c29eb890800000000000000
+      internalID: -7440348168072437100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_6
+      rect:
+        serializedVersion: 2
+        x: 16209
+        y: 19189
+        width: 422
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39fdb2462ea6f170800000000000000
+      internalID: 8211942449908414781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_7
+      rect:
+        serializedVersion: 2
+        x: 18759
+        y: 19189
+        width: 552
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc0433caf21efc0800000000000000
+      internalID: -3467437821457806033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_8
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 16639
+        width: 492
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ece31adc646ee00800000000000000
+      internalID: 1073623410161929771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_9
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 16619
+        width: 542
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3086ba98fabc30800000000000000
+      internalID: 4376083331314367751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_10
+      rect:
+        serializedVersion: 2
+        x: 6219
+        y: 16639
+        width: 1002
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95115e6c89256bcf0800000000000000
+      internalID: -236911114264964775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_11
+      rect:
+        serializedVersion: 2
+        x: 8779
+        y: 16639
+        width: 922
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cecb672008c95f0800000000000000
+      internalID: -748582689979962288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_12
+      rect:
+        serializedVersion: 2
+        x: 11339
+        y: 16639
+        width: 922
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5060a4c13b0540800000000000000
+      internalID: 4975124933934865028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_13
+      rect:
+        serializedVersion: 2
+        x: 13899
+        y: 16639
+        width: 922
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d8191f9d7fedb0800000000000000
+      internalID: -4760448158832996062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_14
+      rect:
+        serializedVersion: 2
+        x: 16459
+        y: 16639
+        width: 902
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aef19a98394c900800000000000000
+      internalID: 703849661233883694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_15
+      rect:
+        serializedVersion: 2
+        x: 19009
+        y: 16629
+        width: 902
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62856688b2725930800000000000000
+      internalID: 4130489945106514540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_16
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14069
+        width: 892
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d326b6832e24c0800000000000000
+      internalID: -4310468731858595745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_17
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 14069
+        width: 872
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c1fe2cc8a77eab0800000000000000
+      internalID: -4978876118050333620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_18
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 14069
+        width: 862
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda13c08d01fb700800000000000000
+      internalID: 558183398920793567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_19
+      rect:
+        serializedVersion: 2
+        x: 8769
+        y: 14069
+        width: 852
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6de637f28f25140800000000000000
+      internalID: 4707097443239384777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_20
+      rect:
+        serializedVersion: 2
+        x: 11329
+        y: 14069
+        width: 842
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f189873ef6266f0800000000000000
+      internalID: -692868369890140337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_21
+      rect:
+        serializedVersion: 2
+        x: 13879
+        y: 14069
+        width: 842
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85db9f856d4d6f30800000000000000
+      internalID: 4570394295447311755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_22
+      rect:
+        serializedVersion: 2
+        x: 16439
+        y: 14079
+        width: 832
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85878596074499860800000000000000
+      internalID: 7537130700975667288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_23
+      rect:
+        serializedVersion: 2
+        x: 18999
+        y: 14079
+        width: 822
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1c26e7a960b6350800000000000000
+      internalID: 6010905388271190455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 11519
+        width: 802
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a06854c43c8aa70800000000000000
+      internalID: 8838529001065941557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_25
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 11519
+        width: 792
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb88c1326c00de0800000000000000
+      internalID: -1368876432615751826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_26
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 11519
+        width: 702
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291ea0a6d4d640c0800000000000000
+      internalID: -4591748751773787862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_27
+      rect:
+        serializedVersion: 2
+        x: 8739
+        y: 11509
+        width: 622
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c420f2196edf1d0800000000000000
+      internalID: -3315240239441490827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_28
+      rect:
+        serializedVersion: 2
+        x: 11299
+        y: 11499
+        width: 552
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2c61964f4c8670800000000000000
+      internalID: 8542289757721078352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf Side Strong 1000_29
+      rect:
+        serializedVersion: 2
+        x: 13849
+        y: 11499
+        width: 522
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc799e36190bb110800000000000000
+      internalID: 1277624910433844415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf Side Strong 1000_0: -2720649173640525105
+      Elf Side Strong 1000_1: -6743210753535539635
+      Elf Side Strong 1000_10: -236911114264964775
+      Elf Side Strong 1000_11: -748582689979962288
+      Elf Side Strong 1000_12: 4975124933934865028
+      Elf Side Strong 1000_13: -4760448158832996062
+      Elf Side Strong 1000_14: 703849661233883694
+      Elf Side Strong 1000_15: 4130489945106514540
+      Elf Side Strong 1000_16: -4310468731858595745
+      Elf Side Strong 1000_17: -4978876118050333620
+      Elf Side Strong 1000_18: 558183398920793567
+      Elf Side Strong 1000_19: 4707097443239384777
+      Elf Side Strong 1000_2: 5311223724020772413
+      Elf Side Strong 1000_20: -692868369890140337
+      Elf Side Strong 1000_21: 4570394295447311755
+      Elf Side Strong 1000_22: 7537130700975667288
+      Elf Side Strong 1000_23: 6010905388271190455
+      Elf Side Strong 1000_24: 8838529001065941557
+      Elf Side Strong 1000_25: -1368876432615751826
+      Elf Side Strong 1000_26: -4591748751773787862
+      Elf Side Strong 1000_27: -3315240239441490827
+      Elf Side Strong 1000_28: 8542289757721078352
+      Elf Side Strong 1000_29: 1277624910433844415
+      Elf Side Strong 1000_3: 7759366540720208875
+      Elf Side Strong 1000_4: 2122747206288757611
+      Elf Side Strong 1000_5: -7440348168072437100
+      Elf Side Strong 1000_6: 8211942449908414781
+      Elf Side Strong 1000_7: -3467437821457806033
+      Elf Side Strong 1000_8: 1073623410161929771
+      Elf Side Strong 1000_9: 4376083331314367751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
