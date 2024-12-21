@@ -11,6 +11,7 @@ public class RangedEnemy : Enemy
 
     [SerializeField] float minDist;
     bool retreating;
+    bool canMove;
 
     Animator anim;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -24,7 +25,10 @@ public class RangedEnemy : Enemy
     protected override void Update()
     {
         base.Update();
-        Move();
+        if (canMove)
+        {
+            Move();
+        }
     }
 
     #region Movement
@@ -54,7 +58,7 @@ public class RangedEnemy : Enemy
         {
             retreating = true;
         }
-        else if (dist >= atkRange)
+        else if (dist >= atkRange - minDist)
         {
             retreating = false;
         }
@@ -64,12 +68,21 @@ public class RangedEnemy : Enemy
     #endregion
     protected override void attack()
     {
-        anim.SetTrigger("Shoot");
+        if (!retreating)
+        { 
+            canMove = false;
+            anim.SetTrigger("Shoot");
+        }
     }
 
     private void shootProjectile()
     {
         Instantiate(projectile, transform.position , transform.rotation);
+    }
+
+    private void shootEnd()
+    {
+        canMove = true;
     }
 
 }
