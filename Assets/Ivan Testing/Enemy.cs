@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 
@@ -8,8 +9,8 @@ public class Enemy : Entity
     protected Vector2 playerPos;
     [SerializeField] protected float speed;             // Movement Speed
     [SerializeField] protected float atkRange;          // Maximum Attack Range
-    [SerializeField] protected float atkCooldown;          // Cooldown for the attack Timer
-    protected float atkTimer;                        // Attack Timer
+    [SerializeField] protected float atkCooldown;          // Cooldown for the attack Timer in seconds
+    protected float atkTimer;                        // Attack Timer counts down for the attack
 
 
     protected SpriteRenderer spriteRender;
@@ -28,7 +29,17 @@ public class Enemy : Entity
     {
         playerPos = player.transform.position;
         FacePlayer();
+        if(atkTimer > 0)
+        {
+            atkTimer-= Time.deltaTime;
+        }
+        else
+        {
+            attack();
+            atkTimer = atkCooldown;
+        }
     }
+
     protected void FacePlayer()
     {
         if (transform.position.x < playerPos.x)
@@ -59,6 +70,11 @@ public class Enemy : Entity
                     break;
             }
         }
+    }
+
+    protected virtual void attack()
+    {
+
     }
 
     public override void TakeDamage(float dmg)

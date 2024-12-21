@@ -60,9 +60,9 @@ public class RangedEnemy : Enemy
     }
 
     #endregion
-    public void shoot()
+    protected override void attack()
     {
-
+        Instantiate(projectile,transform.position,transform.rotation);
     }
 
 }

@@ -26,6 +26,8 @@ public class Projectile : MonoBehaviour
         {
             spriteRenderer.flipX = false;
         }
+        Destroy(this.gameObject,3f);
+        
     }
 
     // Update is called once per frame
