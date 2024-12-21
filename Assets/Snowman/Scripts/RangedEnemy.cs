@@ -12,10 +12,12 @@ public class RangedEnemy : Enemy
     [SerializeField] float minDist;
     bool retreating;
 
+    Animator anim;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     protected override void Start()
     {
         base.Start();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -62,7 +64,12 @@ public class RangedEnemy : Enemy
     #endregion
     protected override void attack()
     {
-        Instantiate(projectile,transform.position,transform.rotation);
+        anim.SetTrigger("Shoot");
+    }
+
+    private void shootProjectile()
+    {
+        Instantiate(projectile, transform.position , transform.rotation);
     }
 
 }
