@@ -7,6 +7,8 @@ using static UnityEngine.GraphicsBuffer;
 public class RangedEnemy : Enemy
 {
 
+    [SerializeField] GameObject projectile;
+
     [SerializeField] float minDist;
     bool retreating;
 
@@ -23,6 +25,7 @@ public class RangedEnemy : Enemy
         Move();
     }
 
+    #region Movement
     protected override void Move()
     {
         float dist = (playerPos - (Vector2)transform.position).magnitude;
@@ -54,6 +57,12 @@ public class RangedEnemy : Enemy
             retreating = false;
         }
         return retreating;
+    }
+
+    #endregion
+    protected override void attack()
+    {
+        Instantiate(projectile,transform.position,transform.rotation);
     }
 
 }

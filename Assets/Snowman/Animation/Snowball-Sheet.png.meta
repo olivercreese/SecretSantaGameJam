@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: d3390d317b0b52a4fafe6b02aa568c16
+guid: edad60719647e624484fe9813c75d135
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5975530249777176061
-    second: Start-Game-12-21-2024_0
+      213: -6161977431736997753
+    second: Snowball-Sheet_0
+  - first:
+      213: -665831101134126471
+    second: Snowball-Sheet_1
+  - first:
+      213: 6477373497356338516
+    second: Snowball-Sheet_2
+  - first:
+      213: -2113121186240253700
+    second: Snowball-Sheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Start-Game-12-21-2024_0
+      name: Snowball-Sheet_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 44
-        width: 933
-        height: 198
+        x: 0
+        y: 0
+        width: 320
+        height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3022e65c5e6a21da0800000000000000
-      internalID: -5975530249777176061
+      spriteID: 791187700860be7409009f77ad2c2e27
+      internalID: 1195623657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowball-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6556e1c67cf0fa445b512333f28eb196
+      internalID: 1201305375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowball-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734801a459e82384c9b6767c133da446
+      internalID: 607164707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowball-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3f362147e2e74fb796a40c1e6a83f
+      internalID: 1581536262
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5eab77bfe96cdb14991719e662c0651f
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Start-Game-12-21-2024_0: -5975530249777176061
+      Snowball-Sheet_0: 1195623657
+      Snowball-Sheet_1: 1201305375
+      Snowball-Sheet_2: 607164707
+      Snowball-Sheet_3: 1581536262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
