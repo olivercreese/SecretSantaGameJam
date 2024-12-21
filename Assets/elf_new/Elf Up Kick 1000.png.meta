@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elf Up Kick 1000_0: -6493603974673781688
+      Elf Up Kick 1000_1: -3282084581707302888
+      Elf Up Kick 1000_10: -2295986017388858666
+      Elf Up Kick 1000_11: -5776570485628012317
+      Elf Up Kick 1000_12: -9138551978181994258
+      Elf Up Kick 1000_13: -45472391639382326
+      Elf Up Kick 1000_14: -4762032837979166636
+      Elf Up Kick 1000_2: 588421099779428751
+      Elf Up Kick 1000_3: -7149222029842146234
+      Elf Up Kick 1000_4: -6394316716646998933
+      Elf Up Kick 1000_5: 7292918017289222225
+      Elf Up Kick 1000_6: -4786043043414423941
+      Elf Up Kick 1000_7: -5156184996671197321
+      Elf Up Kick 1000_8: 6303352995294487760
+      Elf Up Kick 1000_9: -6838976304897492734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
