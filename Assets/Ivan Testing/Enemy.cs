@@ -9,7 +9,7 @@ public class Enemy : Entity
     [SerializeField] protected float speed;
     [SerializeField] protected float atkRange;
 
-    SpriteRenderer spriteRender;
+    protected SpriteRenderer spriteRender;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     protected override void Start()
@@ -24,8 +24,9 @@ public class Enemy : Entity
     protected virtual void Update()
     {
         playerPos = player.transform.position;
+        FacePlayer();
     }
-    protected virtual void FacePlayer()
+    protected void FacePlayer()
     {
         if(transform.position.x < playerPos.x)
         {
@@ -40,13 +41,20 @@ public class Enemy : Entity
     protected virtual void Move(Vector2 target)
     {
         FacePlayer();
-        if (transform.position.x < playerPos.x)
+        float dist = (playerPos - (Vector2)transform.position).magnitude;
+        if (dist < atkRange)
         {
-            transform.position = Vector2.MoveTowards(transform.position, target - new Vector2(atkRange, 0), speed * Time.deltaTime);
-        }
-        else
-        {
-            transform.position = Vector2.MoveTowards(transform.position, target + new Vector2(atkRange, 0), speed * Time.deltaTime);
+            switch (spriteRender.flipX)
+            {
+                // Facing Right
+                case true:
+                    transform.position = Vector2.MoveTowards(transform.position, target - new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    break;
+                // Facing Left
+                case false:
+                    transform.position = Vector2.MoveTowards(transform.position, target + new Vector2(atkRange, 0), speed * Time.deltaTime);
+                    break;
+            }
         }
     }
 
