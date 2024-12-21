@@ -6,8 +6,11 @@ public class Enemy : Entity
     GameObject player;
 
     protected Vector2 playerPos;
-    [SerializeField] protected float speed;
-    [SerializeField] protected float atkRange;
+    [SerializeField] protected float speed;             // Movement Speed
+    [SerializeField] protected float atkRange;          // Maximum Attack Range
+    [SerializeField] protected float atkCooldown;          // Cooldown for the attack Timer
+    protected float atkTimer;                        // Attack Timer
+
 
     protected SpriteRenderer spriteRender;
 

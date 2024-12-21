@@ -333,7 +333,7 @@ Transform:
   m_GameObject: {fileID: 412474472}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.5852137, y: -0.3, z: 0}
+  m_LocalPosition: {x: -6.032, y: -0.337, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -352,6 +352,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dmg: 5
+--- !u!1001 &474787480
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 356256165666784215, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_Name
+      value: Snowball_Projectile
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.3775
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1621122
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4914474129545988275, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6f1d71d2bf6d67944b4049125c9c30db, type: 3}
 --- !u!1 &522536453
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,3 +688,4 @@ SceneRoots:
   - {fileID: 258294174}
   - {fileID: 522536456}
   - {fileID: 412474476}
+  - {fileID: 474787480}
